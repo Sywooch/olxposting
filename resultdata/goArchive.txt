@@ -1,0 +1,2080 @@
+HTTP/1.1 200 OK
+X-B: tablica-dc4-270
+X-T: D=121265 t=1489594614937807
+Content-Type: text/html; charset=UTF-8
+Expires: Wed, 15 Mar 2017 16:16:55 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Wed, 15 Mar 2017 16:16:55 GMT
+Transfer-Encoding:  chunked
+Connection: keep-alive
+Connection: Transfer-Encoding
+Set-Cookie: mobile_default=desktop; path=/; domain=.olx.ua; secure
+Set-Cookie: dfp_segment_test=91; expires=Thu, 15-Mar-2018 16:16:55 GMT; Max-Age=31536000; path=/; domain=.olx.ua
+
+<!DOCTYPE html>
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Мой профиль • OLX.ua</title>
+						<meta name="robots" content="noindex, follow" />				<link rel="alternate" href="https://www.olx.ua/myaccount/archive/" hreflang="ru" />
+<link rel="alternate" href="https://www.olx.ua/uk/myaccount/archive/" hreflang="uk" />		<meta http-equiv="Content-Language" content="ru" />
+		<meta name="description" content="" />
+							<meta property="og:title" content="Мой профиль • OLX.ua"/>
+					<meta property="fb:app_id" content="1535830993316424"/>
+					<meta property="og:image" content="https://s1.olx.ua/static/olxua/naspersclassifieds-regional/olxeu-atlas-web-olxua/static/img/fb/fb-image200x200.png?t=17-03-15"/>
+					<meta property="og:type" content="website"/>
+					<meta property="og:url" content="https://www.olx.ua"/>
+					<meta property="og:site_name" content="Сайт бесплатных объявлений OLX.ua"/>
+					<meta property="og:locale" content="ru_RU"/>
+					<meta property="og:description" content="Миллионы частных объявлений о купле-продаже в твоем городе. Продается всё!"/>
+					<meta property="yandex-verification" content="67284585bff59a69"/>
+							<link rel="icon" type="image/x-icon" href="https://s2.olx.ua/static/olxua/naspersclassifieds-regional/olxeu-atlas-web-olxua/static/img/favicon.ico?v=4">
+				    <script type="text/javascript" src="https://s1.olx.ua/static/olxua/naspersclassifieds-regional/olxeu-atlas-web/static/js/tracking/ninja.js?v=1489488614"></script><script type="text/javascript">
+                    var trackingData = JSON.parse('{"$config":{"siteUrl":"www.olx.ua","environment":"production","setup":{"ati":{"siteCode":"573055","server":"logw314","serverSsl":"logws1314"},"gtm":{"siteCode":"GTM-W9GJCL"},"mixpanel":{"siteCode":"1799dc4067be971353b85127f766a0a4"}}},"pageView":{"platform":"desktop","action_type":"my_ads","trackPage":"my_ads","url":"\/myaccount\/archive\/","language":"ru"}}');
+              </script>    <script type="text/javascript">
+        (function(document, window) {
+            var DOMContentLoaded=function(a){var b=function(){return document.attachEvent&&"undefined"!=typeof document.attachEvent?"ie":"not-ie"};return a=function(a){a&&"function"==typeof a?"ie"!==b()?document.addEventListener("DOMContentLoaded",function(){return a()}):document.attachEvent("onreadystatechange",function(){if("complete"===document.readyState)return a()}):console.error("The callback is not a function!")}}(DOMContentLoaded||{});
+                DOMContentLoaded(function() {
+                    if (typeof NinjaTracker !== "undefined") {
+                        NinjaTracker.initEvents();
+                        if (typeof PaymentHandler === "function") { PaymentHandler(); }
+                    } else {
+                        console.log("NinjaTracker Events is undefined, initialization failed!");
+                    }
+                });
+        })(document, window);
+    </script>
+    <script type="text/javascript">
+        var newrelicLicenseKey = "f1ebd821a6";
+        var newrelicApplicationID = "26545672";
+        var newrelicRandomMax = "25";
+    </script>
+    <script src="https://s2.olx.ua/static/olxua/naspersclassifieds-regional/olxeu-atlas-web/static/js/newrelic.js?v=1489488614" type="text/javascript"></script>
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+        <script type='text/javascript' src='//static.criteo.net/js/ld/publishertag.js' async></script>
+    <script>
+        var Criteo = Criteo || {}; Criteo.events = Criteo.events || [];
+        Criteo.events.push(function() {
+            Criteo.CallRTA({"networkId":6125 });
+        });
+    </script>
+    <script type="text/javascript" charset="utf-8">
+    (function(G,o,O,g,L,e){G[g]=G[g]||function(){(G[g]['q']=G[g]['q']||[]).push(
+                    arguments)},G[g]['t']=1*new Date;L=o.createElement(O),e=o.getElementsByTagName(
+            O)[0];L.async=1;L.src='//www.google.com/adsense/search/async-ads.js';
+        e.parentNode.insertBefore(L,e)})(window,document,'script','_googCsa');
+</script>				<!-- HEAD CONTRIB -->
+
+            <script type="text/javascript">
+            var trackingData = trackingData || {}; 
+            trackingData.$data = JSON.parse('{"pageView":{"user_id":90983262,"user_status":"logged_password","business_status":"normal","test":"a"},"delayedEvents":[]}');
+            if (typeof NinjaTracker !== "undefined") {
+    
+                NinjaTracker.init();
+            } else {
+                console.log("NinjaTracker is undefined, initialization failed!");
+            }
+            </script>
+														<script type="text/javascript">
+						var _adblock = true;
+					</script>
+					<script type="text/javascript" src="https://s1.olx.ua/static/olxua/naspersclassifieds-regional/olxeu-atlas-web/static/js/advertising.js"></script>
+								    	    																		<link rel="stylesheet" type="text/css" href="https://s2.olx.ua/static/olxua/packed/swa2cd246c0804443f5ae2ebfffd9bce22.css">
+																											<link rel="stylesheet" type="text/css" href="https://s2.olx.ua/static/olxua/packed/sw7e1bb974b26d770ac5cd6928849277a3.css">
+																										<!--[if lte IE 8]>						<link rel="stylesheet" type="text/css" href="https://s2.olx.ua/static/olxua/packed/sw09938cb1da0c631b774bbf1cf2dfc925.css">
+					<![endif]-->									
+		
+					<script type="text/javascript">
+				window.suggestmeyes_loaded = true;
+			    						var action='myaccount';
+			    						var method='index';
+			    						var user_logged=1;
+			    						var www_base='https://www.olx.ua';
+			    						var www_base_no_namespace='https://www.olx.ua';
+			    						var www_base_ajax='https://www.olx.ua/ajax';
+			    						var static_files_www_base='https://s1.olx.ua/static/olxua/';
+			    						var external_static_files_www_base='https://s2.olx.ua/static/olxua/naspersclassifieds-regional/olxeu-atlas-web-olxua/static/';
+			    						var external_static_files_www_base_main='https://s1.olx.ua/static/olxua/naspersclassifieds-regional/olxeu-atlas-web/static/';
+			    						var session_domain='olx.ua';
+			    						var site_domain='www.olx.ua';
+			    						var decimal_separator='.';
+			    						var thousands_separator=' ';
+			    						var sitecode='olxua';
+			    						var defaultCurrency='UAH';
+			    						var config_currency='грн.';
+			    						var useExternalScripts=1;
+			    						var lang='ru';
+			    						var hasRwd=0;
+			    						var module_store_image_sizes_db=1;
+			    						var module_store_image_sizes=1;
+			    						var module_police_bank_info=1;
+			    						var module_paidads=1;
+			    						var module_facebook_login=1;
+			    						var module_new_emails=1;
+			    						var module_newmoderation=1;
+			    						var module_payu=1;
+			    						var module_districts=1;
+			    						var module_new_search_filters=1;
+			    						var module_new_myaccount=1;
+			    						var module_currencies=1;
+			    						var module_currencies_new=1;
+			    						var module_sms_notification=1;
+			    						var module_metro=1;
+			    						var module_superdeal=1;
+			    						var module_contact_as_image=1;
+			    						var module_mobile_app=1;
+			    						var module_unfinished_payments=1;
+			    						var module_new_sms_notification=1;
+			    						var module_trusted_changes=1;
+			    						var module_stock_photos_info=1;
+			    						var module_refugees=1;
+			    						var module_refugees_adding=1;
+			    						var module_multiacc=1;
+			    						var module_olx6=1;
+			    						var module_gpt_banners=1;
+			    						var module_adding_refactor=1;
+			    						var module_i2_payment=1;
+			    						var module_paid_subscriptions=1;
+			    						var module_topupaccount=1;
+			    						var module_old_payment_tables=1;
+			    						var module_portmone=1;
+			    						var module_redis_hash=1;
+			    						var module_rest_api=1;
+			    						var module_phone_in_desc=1;
+			    						var module_anonymous_chat_app=1;
+			    						var module_ads_no_results=1;
+			    						var module_courier=1;
+			    						var module_new_at=1;
+			    						var module_bonus_credits=1;
+			    						var module_geo6_multiple_langs=1;
+			    						var module_crm=1;
+			    						var module_deactivate_reasons_simple=1;
+			    						var module_gpt_banners_i2=1;
+			    						var module_new_tracking=1;
+			    						var module_clm=1;
+			    						var module_delivery=1;
+			    						var module_paid_subscriptions_single=1;
+			    						var module_user_online_status=1;
+			    						var module_pushup_new=1;
+			    						var module_topupaccount_newemail=1;
+			    						var module_afc_to_dfp=1;
+			    						var module_no_old_subdomains=1;
+			    						var module_observed_new=1;
+			    						var module_ap_ldap_login=1;
+			    						var module_ads_homepage=1;
+			    						var module_disable_free_refresh_categories=1;
+			    						var module_observed_anonymous=1;
+			    						var module_new_controllers=1;
+			    						var module_vas_config_wallet=1;
+			    						var module_vas_config_wallet_before=1;
+			    						var module_vas_config_nnl_limits=1;
+			    						var module_vas_config_nnl_business_limits=1;
+			    						var module_vas_config_topads=1;
+			    						var module_topupaccount_wallet=1;
+			    						var module_notification_center=1;
+			    						var module_new_dfp=1;
+			    						var module_afs_on_empty_search_i2=1;
+			    						var module_vkontakte_login=1;
+			    						var module_landing_action=1;
+			    						var module_split_item_content=1;
+			    						var module_open_api=1;
+			    						var module_user_sms_verification=1;
+			    						var module_user_photo=1;
+			    						var module_show_limits_price_on_posting_form=1;
+			    						var module_enable_premium_account=1;
+			    						var module_bulk_ads_upload=1;
+			    						var module_flagged_ads=1;
+			    						var module_shop_filters=1;
+			    						var module_mandatory_login=1;
+			    						var module_gemius=1;
+			    						var module_remove_emailanswers_on_posting=1;
+			    						var module_multipay_ati_new_report=1;
+			    						var module_paid_feature_expires=1;
+			    						var module_nps_survey=1;
+			    						var module_criteo_dfp=1;
+			    						var module_vas_config_tariff_bonus_points=1;
+			    						var module_treatments=1;
+			    						var module_accept_arranged_salary=1;
+			    						var module_recaptcha=1;
+			    						var module_app_listing_tiles=1;
+			    						var module_app_homescreen_tiles=1;
+			    						var module_disable_adblock_afs=1;
+			    						var module_log_sent_emails=1;
+			    						var module_store_image_update_sizes=1;
+			    						var module_ninja_i2_legacy=1;
+			    						var module_ninja_m_legacy=1;
+			    						var module_solr_cloud=1;
+			    						var module_solr_improvement=1;
+			    						var module_monetization_new_tariffs=1;
+			    						var module_fraud_detection=1;
+			    						var module_fraud_detector_queue=1;
+			    						var module_accurate_location=1;
+			    						var module_password_hashing=1;
+			    						var module_hermes_new_api=1;
+			    						var module_counting_adblock=1;
+			    						var module_ad_discount=1;
+			    						var module_ad_discount_push=1;
+			    						var module_ab_force_login_posting=1;
+			    						var module_history_extra_info=1;
+			    						var module_delete_secure=1;
+			    						var module_appleAllowLongPushes=1;
+			    						var module_observed_push=1;
+			    						var module_disable_i2_adding=1;
+			    						var module_hide_adverts_slots=1;
+			    						var module_facebook_friends=1;
+			    						var module_app_homescreen=1;
+			    						var module_ads_efficiency=1;
+			    						var module_mobile_slot_manager=1;
+			    						var module_wp_nativemode=1;
+			    						var module_apps_disable_alog=1;
+			    						var module_app_homescreen_last=1;
+			    						var module_app_homescreen_clm=1;
+			    						var module_app_homescreen_category=1;
+			    						var module_app_homescreen_covisitation=1;
+			    						var module_app_homescreen_latlon=1;
+			    						var module_app_homescreen_curated=1;
+			    						var module_app_homescreen_test=1;
+			    						var module_app_homescreen_nearby_newest=1;
+			    						var module_new_jobs=1;
+			    						var module_force_login_posting=1;
+			    						var module_flagged_ads_alter=1;
+			    						var module_use_www_subdomain=1;
+			    						var module_group_activation_of_limited_ads=1;
+			    						var module_ssl_only=1;
+			    						var module_BaseCRM=1;
+			    						var module_newrelic_api_app=1;
+			    						var module_hide_disabled_parameters=1;
+			    						var module_show_photo_setting=1;
+			    						var module_new_sidebar=1;
+			    						var module_vas_treatments_thresholds_test_log=1;
+			    						var module_xml_remote=1;
+			    						var module_expire_ads_mailing_queue=1;
+			    						var module_hermes_messages=1;
+			    						var module_new_hermes_executor=1;
+			    						var module_check_nnl_ads=1;
+			    						var module_legacy_cities=1;
+			    						var module_mcrouter=1;
+			    						var module_statistics_i2=1;
+			    						var module_ignore_sub_region_in_searches=1;
+			    						var module_multipay_touchpoints=1;
+			    						var module_fair_expiration=1;
+			    						var module_fair_expiration_moderated_end=1;
+			    						var module_users_without_password_detector=1;
+			    						var module_mandatory_login_for_chat=1;
+			    						var module_log_erec_emails=1;
+			    						var module_new_conversation_limiter=1;
+			    						var module_standarize_username=1;
+			    						var module_eventbus_publisher=1;
+			    						var module_ab_tests=1;
+			    						var module_test_bundles_multipay_actions=1;
+			    						var isTestServer=0;
+			    						var user_sms_verified=1;
+			    						var mobileNumberPatternJs='^(?:(?:\\+?(380))|(0))?((?:39|50|66|95|99|63|93|67|68|96|97|98|91|92|94|73{1})[0-9]{5,7})$|^(?:\+?(?<code_ru>7))?(?<phone_ru>(?:900|901|902|903|904|905|906|908|909|910|911|912|913|914|915|916|917|918|919|920|921|922|923|924|925|926|927|928|929|930|931|932|933|934|936|937|938|939|941|950|951|952|953|955|956|958|960|961|962|963|964|965|966|967|968|969|970|971|977|978|980|981|982|983|984|985|986|987|988|989|991|992|993|994|995|996|997|999)[0-9]{7})$';
+			    						var stats_enabled=1;
+			    						var highcharts_userId=90983262;
+			    						var highcharts_months_translated=['январь','февраль','март','апрель','май','июнь','июль','август','сентябрь','октябрь','ноябрь','декабрь'];
+			    						var highcharts_shortmonths_translated=['января','февраля','марта','апреля','мая','июня','июля','августа','сентября','октября','ноября','декабря'];
+			    						var highcharts_weekdays_translated=["воскресенье","понедельник","вторник","среда","четверг","пятница","суббота"];
+			    						var multipay_url='https://www.olx.ua/payment/multipay/?bs=myaccount_multi_promoting';
+			    						var enable_premium_account=1;
+			    						var liveinternet_id='Slando_Ukraine';
+			    						var events_break=false;
+			    						var N=15;
+			    						var ar_duo1=Math.floor(Math.random()*N+1);
+			    						var pp_gemius_identifier=new String('0nHqv6tj9z5nRfsmP697J6RuLbo6IEODmOw0yRKw6PX.67');
+			    						var gemius_script_src='https://s2.olx.ua/static/olxua/naspersclassifieds-regional/olxeu-atlas-web/static/js/xgemius.js';
+			    			    function __(txt) {
+				if (typeof translations == 'object') {
+							if (translations[txt] == undefined) {
+								return txt;
+							} else {
+								return translations[txt];
+							}
+				}
+				return txt;
+			    }
+			</script>
+		        <!--[if lt IE 9]>
+        	<script type="text/javascript" src="https://s2.olx.ua/static/olxua/js/scripts/html5shiv.min.js"></script>
+		<![endif]-->
+				</head>
+	<body class="myaccountview">
+	    		    <!-- Google Tag Manager -->
+<!-- End Google Tag Manager -->	    	    <!-- Start: GPT -->
+                                        <script type='text/javascript'>
+                    var gptadslots=[];
+                    var googletag = googletag || {};
+                    googletag.cmd = googletag.cmd || [];
+
+                                            (function(){
+                            var gads = document.createElement('script');
+                            gads.async = true; gads.type = 'text/javascript';
+                            var useSSL = 'https:' == document.location.protocol;
+                            gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+                            var node = document.getElementsByTagName('script')[0];
+                            node.parentNode.insertBefore(gads, node);
+                        })();
+                                    </script>
+            
+                <script type="text/javascript">
+                    
+                    var GPT = GPT || {};
+                    GPT.slots = [{"divId":"div-gpt-layout-topover","adUnitPath":"myaccount\/ads","adUnitSizes":"[[1,1],[890,90]]","outOfPage":"0","targeting":{"pos":"\"HZ_TopOver\"","Admixer":"\"1\""},"isCollapsing":false,"exclusion":"['topover']","openxBidder":false,"sticky":"0","setClass":"0"}];
+                    GPT.targeting = {"active_ads_count":["0"],"active_ads_cat":[],"active_NNL":"no","env":"production","url_action":"myaccount","lang":"ru"};
+                    GPT.slotsShowOnlyWhenUserSee = [];
+                    if (typeof googletag != "undefined") {
+                        googletag.cmd.push(function() {
+                                                                    //if (document.getElementById('div-gpt-layout-topover') != undefined) {
+                                        gptadslots['div-gpt-layout-topover']= googletag.defineSlot('/55937117/olx.ua/myaccount/ads', [[1,1],[890,90]], 'div-gpt-layout-topover')
+                                                                                                                        .setTargeting('pos',"HZ_TopOver")
+                                                                                .setTargeting('Admixer',"1")
+                                                                                                                                                                                                                                                        .addService(googletag.pubads());
+                                    //}
+                                                            googletag.pubads().enableSingleRequest();
+                                                                googletag.pubads().setTargeting('active_ads_count',["0"]);
+                                                                googletag.pubads().setTargeting('active_ads_cat',[]);
+                                                                googletag.pubads().setTargeting('active_NNL',"no");
+                                                                googletag.pubads().setTargeting('env',"production");
+                                                                googletag.pubads().setTargeting('url_action',"myaccount");
+                                                                googletag.pubads().setTargeting('lang',"ru");
+                                                        
+                                googletag.pubads().setTargeting('user_type', "normal");
+    googletag.pubads().setTargeting('responds_fast', "0");
+    googletag.pubads().setTargeting('user_id', "90983262");
+    googletag.pubads().setTargeting('dfp_user_id', "");
+    googletag.pubads().setTargeting('account', "business");
+    googletag.pubads().setTargeting('dfp_segment_test', "91");
+
+                            
+                            if (typeof(crtg_content) == 'undefined') {
+                                crtg_content = '';
+                            }
+                            var crtg_split = crtg_content.split(';');
+                            var cto_values = {};
+                            for (var i=1;i<crtg_split.length;i++){
+                                var key = (crtg_split[i-1].split('='))[0];
+                                var value = (crtg_split[i-1].split('='))[1];
+                                cto_values[key] = cto_values[key] || [];
+                                cto_values[key].push( "" + value + "");
+                            }
+                            for (var i in cto_values) {
+                                if (cto_values.hasOwnProperty(i)) googletag.pubads().setTargeting("" + i + "", "" + cto_values[i] + "");
+                            }
+                            googletag.pubads().enableAsyncRendering();
+                            googletag.pubads().collapseEmptyDivs(true);
+                            googletag.enableServices();
+                        });
+                    }
+                </script>
+                            <!-- End: GPT -->
+
+	    	    <div id="innerLayout">
+        <div id="div-gpt-layout-topover"  ></div><div id="div-gpt-layout-topover-after"></div>
+
+<header id="header-container">
+	<div class="navi">
+		<div class="wrapper clr rel">
+						<a href="https://www.olx.ua" id="headerLogo" class="abs icon website big" title="На главную OLX - бесплатные объявления">На главную OLX - бесплатные объявления</a>
+												<a href="https://www.olx.ua/slando-landing/" class="icon prevpagelanding"></a>
+													
+							<a id="postNewAdLink" class="postnewlink fbold tdnone" href="https://www.olx.ua/post-new-ad/?bs=myaccount_adding">
+					<span>Подать объявление</span>
+				</a>
+									<div class="lang-selector small">
+								<ul class="breaklist inlblk">
+										<li class="inlblk">
+													<span class="x-normal">язык</span>
+											</li>
+										<li class="inlblk">
+													<a class="x-normal" id="changeLang" href="https://www.olx.ua/changelang/?lang=uk&l=https%3A%2F%2Fwww.olx.ua%2Fuk%2Fmyaccount%2Farchive%2F" data-baselink="https://www.olx.ua/changelang/?lang=uk">мова</a>
+											</li>
+									</ul>
+			</div>
+						<script type="text/javascript">
+    observedNC = [];
+    observedNC['ads'] = [];
+    observedNC['searches'] = [];
+    observedNC['toSynchronize'] = '';
+    var loggedUserId="69KTY";
+    var showPasswordBlock=0;
+    var showPasswordBlockLevel=2;
+</script>
+<ul class="userbox fright marginleft10"  >
+	<li class="hidden inlblk nowrap rel vtop" id="observed-counter">
+		<a href="https://www.olx.ua/favorites/" class="tdnone inlblk hidden" id="observed-ads-link" title="Избранные">
+			<i data-icon="star"></i>
+			<strong class="counter"></strong>
+		</a>
+		<a href="https://www.olx.ua/favorites/search/" class="tdnone inlblk hasObservedAds?'hidden':''}" id="observed-search-link" title="Избранные">
+            <i data-icon="star"></i>
+			<strong class="counter"></strong>
+		</a>
+    </li>
+	<li class="inlblk nowrap vtop noslash li--user-logged" id="my-account-link">
+		<div class="inlblk rel">
+			<a href="https://www.olx.ua/myaccount/"
+				class="userbox-login tdnone" id="topLoginLink">
+                                <div class="user-box__photo"  >
+                                        <i data-icon="account"></i>
+                                    </div>
+                				<span class="link inlblk">
+                    <strong>info</strong>
+                                                                                </span>
+            </a>
+                                    <div class="userbox-dd abs br5 nowrap hidden" id="userLoginBox">
+                    <h5 class="rel"><i data-icon="blocks"></i>Мой профиль:</h5>
+                    <ul>
+                        <li>
+                            <a id="login-box-ads" href="https://www.olx.ua/myaccount/" class="tdnone">
+                                <span class="link fbold"><span>Объявления</span></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a id="login-box-answers" href="https://www.olx.ua/myaccount/answers/" class="tdnone rel">
+                                <span class="link fbold"><span>Сообщения</span></span>
+                                                            </a>
+                        </li>
+                                                                                                                            <li>
+                            <a id="login-box-settings" href="https://www.olx.ua/myaccount/settings/" class="link fbold">
+                                <span>Настройки</span>
+                            </a>
+                        </li>
+                                                                                                            <li class="rel">
+                                    <a href="https://www.olx.ua/kiev/shipping/" class="link fbold">
+                                        <span>Доставка</span>
+                                        <i data-icon="delivery"></i>
+                                    </a>
+                                </li>
+                                                                                                                                                                                                                                                    </ul>
+                    <h5 class="rel"><i data-icon="star-filled"></i>Избранные:</h5>
+                    <ul class="nowrap">
+                        <li>
+                            <a id="login-box-observed-ads" href="https://www.olx.ua/favorites/" class="tdnone rel">
+                                <span class="link fbold">
+                                    <span>
+                                    Объявления                                    </span>
+                                </span>
+                                <span class="notifycircle inlblk nowrap small br3 cfff lheight16 hidden" id="observed-counter-ads">0</span>
+                            </a>
+                        </li>
+                        <li id="favoritesLink">
+                            <a id="login-box-observed-search" href="https://www.olx.ua/favorites/search/" class="tdnone rel">
+                                <span class="link fbold"><span>Поиски</span></span><span class="notifycircle inlblk nowrap small br3 cfff lheight16 hidden" id="observed-counter-searches">0</span>
+                            </a>
+                        </li>
+                    </ul>
+                    <ul class="last">
+                        <li class="rel">
+                            <a id="login-box-logout" href="https://www.olx.ua/account/logout/" class="tdnone">
+                                <i data-icon="turnoff"></i><span class="link fbold"><span>Выйти</span></span>
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="target icon abs"></div>
+                </div>
+            		</div>
+	</li>
+</ul>
+		</div>
+	</div>
+	
+
+<div id="searchbox">
+	<div class="wrapper clr">
+
+		<div class="paybalance-box br3">
+		<small>Ваш счет</small>
+		<div class="clr">
+			<a href="https://www.olx.ua/payment/wallet/topupaccount/" class="fright button cfff br3 x-large"><span>Пополнить счет</span></a>
+			<ul class="paybalance-box__dropdown fleft">
+				<li>
+					<a href="#" class="title br4" id="paybalanceDropdownTitle"><span class="br4">0 грн.</span></a>
+
+					<ul class="hidden">
+
+						
+						
+
+						
+						<li class="clr">
+							Текущий счет: <strong>0 грн.</strong>
+						</li>
+
+						<li class="clr">
+							Бонусный счет: <strong>0 грн.</strong>
+							<div class="rel inlblk">
+								<span class="vtop icon info2 margintop-2"></span>
+								<div class="suggest photos abs zi2 br3 hidden onhover">
+									<span class="target abs icon"></span>
+									Бонусы можно получить принимая участие в наших акциях								</div>
+							</div>
+						</li>
+
+						<li class="clr">
+							Возвраты: <strong>0 грн.</strong>
+						</li>
+
+						<li class="clr small">
+							<a href="https://www.olx.ua/myaccount/points/" class="link"><span>Проверить действительность бонусов</span></a>
+						</li>
+
+					</ul>
+
+				</li>
+			</ul>
+		</div>
+	</div>
+	
+		<div class="clr" id="usertabs">
+
+			<div class="pageinfo margintop20 marginbott20">
+							<h2 class="x-large fbold lheight20">Объявления</h2>
+				<p class="small">Здесь вы найдёте ваши активные и архивные объявления</p>
+					</div>
+		
+<div class="clr">
+			            			</div>
+			<ul class="tabs2 clr">
+				<li class="fleft">
+								<span class="fleft tab selected"> <span class="fbold">Объявления</span>
+					</span>
+							</li>
+						<li class="fleft">
+								<a class="fleft tab tdnone rel" href="https://www.olx.ua/myaccount/answers/" id="se_accountAnswers">
+					<span class="link fbold"><span>Сообщения</span></span>
+									</a>
+							</li>
+									<li class="fleft">
+								<a class="fleft tab link" href="https://www.olx.ua/myaccount/wallet/" id="se_accountWallet">
+						<span class="fbold">Платежи и счёт OLX</span>
+					</a>
+							</li>
+									<li class="fleft">
+								<a class="fleft tab link" href="https://www.olx.ua/myaccount/settings/" id="se_accountShop">
+						<span class="fbold">Настройки</span>
+					</a>
+							</li>
+						<li class="fleft">
+									<a class="fleft tab link" href="https://www.olx.ua/shipping/" id="se_accountShipping">
+						<span class="fbold">Доставка</span>
+					</a>
+							</li>
+											</ul>
+		</div>
+	</div>
+</div>
+</header>    <section id="body-container" class="container" >
+	<div class="wrapper">
+                                <div class="rel zi3">
+                                    <div class="abs rightBranding"><div></div></div>
+                            </div>
+                            <div class="content pdingbott0">
+            			<div class="subnav2 clr">
+									<form class="myaccount-search default fright rel" method="GET" action="" id="userAdsFrom">
+						<fieldset>
+							<span class="button search fright">
+								<input type="submit" class="vtop fright icon" value="Поиск">
+							</span>
+                            <span class="clear-input-button hidden">
+                                <i data-icon="close"></i>
+                            </span>
+							<input type="text" class="text fright ca2 light br3 {defaultText:'Поиск...'}" value="Поиск..." name="title">
+						</fieldset>
+					</form>
+								<ul class="x-normal breaklist lheight20 fleft {type:'archive'}" id="globalLinks">
+																	<li id="typeactive" class="fleft rel" >
+						<a class="fbold" href="https://www.olx.ua/myaccount/">Активные								<span class="counter fnormal">
+																	</span>
+						</a>
+						<span class="abs icon dnone">&nbsp;</span>
+					</li>
+																							<li id="typewaiting" class="fleft rel" style="display: none">
+						<a class="fbold" href="https://www.olx.ua/myaccount/waiting/">Ожидающие								<span class="counter fnormal">
+																	</span>
+						</a>
+						<span class="abs icon dnone">&nbsp;</span>
+					</li>
+																							<li id="typearchive" class="fleft rel selected">
+						<span class="fbold">Неактивные</span> <span class="counter fnormal">
+																	(3)
+															</span> <span class="abs icon dnone">&nbsp;</span>
+					</li>
+																							<li id="typemoderated" class="fleft rel" >
+						<a class="fbold" href="https://www.olx.ua/myaccount/moderated/">Удаленные								<span class="counter fnormal">
+																			(1)
+																	</span>
+						</a>
+						<span class="abs icon dnone">&nbsp;</span>
+					</li>
+															</ul>
+			</div>
+			                        
+
+    		
+									<div id="reasonDiv" class="reason-simple" style="display: none;">
+    <div class="reason-simple__inner">
+        <h2>Объявление было удалено</h2>
+        <div id="reasonInnerHeight">
+            <input type="hidden" value="" class="deleteIds" id="deleteIds">
+
+            <div class="reason-header-sale hidden">
+                <h3>Удалось ли вам продать товар?</h3>
+            </div>
+            <div class="reason-header-notsale hidden">
+                <h3>Довольны ли вы интересом к этому объявлению?</h3>
+            </div>
+
+            <div class="reasons">
+                                                <label class="reason-answer reason-sale success">
+                    <input type="radio" id="reason-4" name="reson" value="4" class="removeReason hidden" />
+                                                <span class="cirlce-icon">
+                                <small>Да</small>
+                            </span>
+                                    </label>
+                                <label class="reason-answer reason-nosale success">
+                    <input type="radio" id="reason-8" name="reson" value="8" class="removeReason hidden" />
+                                                <span class="cirlce-icon">
+                                <small>Да</small>
+                            </span>
+                                    </label>
+                                <label class="reason-answer reason-sale failure">
+                    <input type="radio" id="reason-6" name="reson" value="6" class="removeReason hidden" />
+                                                <span class="cirlce-icon no">
+                                <small>Нет</small>
+                            </span>
+                                    </label>
+                                <label class="reason-answer reason-nosale failure">
+                    <input type="radio" id="reason-10" name="reson" value="10" class="removeReason hidden" />
+                                                <span class="cirlce-icon no">
+                                <small>Нет</small>
+                            </span>
+                                    </label>
+                                            </div>
+                    </div>
+    </div>
+
+    <div id="reason-simple-success" class="reason-simple__inner--success">
+        <h2>Отлично!</h2>
+        <p class="reason-simple__text">Реклама помогает получить <strong>больше откликов</strong> и найти <strong>клиентов быстрее</strong> для ваших объявлений.</p>
+        <a class="olx-button olx-button--primary olx-button-medium js-close-reason-popup" href="">Спасибо</a>
+    </div>
+</div>
+
+				
+				<div id="deleteAndLike" class="hidden">
+					<div class="inner pdingbott20">
+						<p class="margin20_30">Большое спасибо, что продали свой товар или услугу через OLX! Мы будем ждать вас с новыми объявлениями!</p>
+						<div class="rel overh br5 likeHandler margin20_30">
+							<div class="inner rel fleft br5">
+																									Будьте в курсе новостей OLX!																<div class="arrow-right abs"></div>
+							</div>
+							<span class="block icon facebook3 abs"></span>
+															<span class="block icon vkontakte2 abs"></span>
+								<div class="halfgrid clr tcenter">
+									<div class="fleft half">
+																						<div class="inner">
+												<div id="fb-root"></div>
+												
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<fb:like href="http://www.facebook.com/olx.ua" send="false" layout="button_count"
+	width="160" show-faces="true"></fb:like>
+ 											</div>									</div>
+									<div class="fleft half">
+										<div class="inner">
+																						<div id="vk_subscribe" class="{id:-30991419}"></div>
+																					</div>
+									</div>
+								</div>
+													</div>
+						<a class="close margin20_30" href="javascript:void(0);">Назад в Мой профиль</a>
+					</div>
+
+				</div>
+
+				
+				
+										<div id="active-table" class="table-div clr">
+					<div class="accounthead">
+						<h2 class="xx-large fnormal lheight26 c97 marginbott15 clr" id="h2active">
+														<span class="fleft marginright5">Неактивные объявления:</span>
+													</h2>
+					</div>
+										<div id="listContainer">
+						<input type="hidden" id="ajaxurl" data-ajaxurl="https://www.olx.ua/myaccount/archive/" />
+	<table width="100%" cellspacing="0" cellpadding="0" border="0" class="myoffersnew small active" id="adsTable">
+		<thead class="thead">
+			<tr>
+				<th width="30" class="th tcenter normal vtop">
+					<input type="checkbox" class="checkbox" id="globalCheckbox" name="global">
+				</th>
+				<th width="65" class="th normal selected">
+					<div class="rel height16">
+						<a href="https://www.olx.ua/myaccount/archive/?order=asc" class="tdnone nowrap">
+							<span class="hvline marginleft5">Дата</span>
+							                                                                <i data-icon="arrow-down"></i>
+                                													</a>
+						<ul class="abs nowrap globalopt bgfff fbold" id="globalActions">
+							<li class="fleft hidden" id="confirmme">
+								<a href="#" class="link">
+									<span>Подтвердить выбранные</span>
+								</a>
+							</li>
+							<li class="fleft hidden" id="activateme">
+								<a href="#" class="link">
+									<span>Активировать выбранные</span>
+								</a>
+							</li>
+															<li class="fleft hidden" id="activatemelimited">
+									<a href="#" class="link">
+										<span>Активировать выбранные</span>
+									</a>
+								</li>
+														<li class="fleft hidden" id="removeme">
+								<a href="#" class="link">
+									<span>Удалить выбранные</span>
+								</a>
+							</li>
+							<li class="fleft hidden" id="resignme">
+								<a href="#" class="link">
+									<span>Отменить публикацию</span>
+								</a>
+							</li>
+							<li class="fleft hidden" id="deactivateme">
+								<a href="#" class="link">
+									<span>Деактивировать выбранные</span>
+								</a>`
+							</li>
+							<li class="fleft hidden" id="promoteme">
+								<a href="#" class="link">
+									<span>рекламировать выбранные</span>
+								</a>
+							</li>
+															<li class="fleft hidden" id="refreshme">
+									<a href="#" class="link">
+										<span>Обновить выделенные</span>
+									</a>
+								</li>
+																					<li class="fleft hidden" id="addFlagAds">
+								<a href="#" class="link">
+									<span>Рекомендовать на бизнес-странице</span>
+								</a>
+							</li>
+							<li class="fleft hidden" id="removeFlagAds">
+								<a href="#" class="link">
+									<span>Удалить с "Рекомендованные предложения"</span>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</th>
+				<th class="th" width="42"></th>
+				<th class="th normal">
+					<div class="pdingleft10">
+						<span class="globalActionHide"> <a href="https://www.olx.ua/myaccount/archive/?order=asc&orderType=title" class="tdnone">
+								<span class="hvline">Заголовок</span>
+															</a>
+						</span>
+					</div>
+				</th>
+				<th width="95" class="th normal">
+					<span class="globalActionHide">Цена</span>
+				</th>
+				<th class="th normal">
+										<span class="globalActionHide marginright10">Сообщения</span>
+									</th>
+				<th class="th normal">
+									</th>
+			</tr>
+		</thead>
+		<tbody class="tbody">
+							<tr class="tr row-elem  " data-title="Авто полив, посев газонов, сооружение альпийских горок"
+    data-features='{"ad_id":396076380,"ad_photo":3,"item_condition":"NA","poster_type":"normal","seller_id":90983262,"cat_l1_id":7,"cat_l1_name":"uslugi","cat_l2_id":188,"cat_l2_name":"stroitelstvo-otdelka-remont","cat_l3_id":823,"cat_l3_name":"dizayn-arhitektura","category_id":823,"region_id":25,"region_name":"ko","city_id":268,"city_name":"kiev","district_id":3,"district_name":"\u0414\u0430\u0440\u043d\u0438\u0446\u043a\u0438\u0439"}'>
+
+    <span id="uad396076380" data-features='{"ad_id":396076380,"ad_photo":3,"item_condition":"NA","poster_type":"normal","seller_id":90983262,"cat_l1_id":7,"cat_l1_name":"uslugi","cat_l2_id":188,"cat_l2_name":"stroitelstvo-otdelka-remont","cat_l3_id":823,"cat_l3_name":"dizayn-arhitektura","category_id":823,"region_id":25,"region_name":"ko","city_id":268,"city_name":"kiev","district_id":3,"district_name":"\u0414\u0430\u0440\u043d\u0438\u0446\u043a\u0438\u0439"}'></span>
+
+    <td class="td tcenter">
+        <div class="rel zi2">
+            <input type="checkbox"
+                   class="checkbox adID notsale"
+                   value="396076380" name="id[]"/>
+        </div>
+    </td>
+
+    
+    <td class="td">
+        <div style="display: none;" id="dateContainerTpl">
+                        С:
+                        <span class="dateContainer_from"></span>
+                        <br>По:
+            <span class="dateContainer_to"></span>
+                    </div>
+        <p class="date dateContainer nowrap marginleft5 marginright5">
+                        С:
+            
+            2 март
+                        <br>По: <span class="validTo">Сегодня</span>
+                    </p>
+    </td>
+
+    
+    
+    <td class="td">
+                <span class="thumb fleft rel tdnone"> <img width="50" alt=""
+                                                   src="https://olxua-ring08.akamaized.net/images_slandocomua/449361464_1_94x72_avto-poliv-posev-gazonov-sooruzhenie-alpiyskih-gorok-kiev_rev003.jpg"
+                                                   class="list_thumbnail fleft"></span>
+            </td>
+
+    
+    
+    <td class="td">
+        <div class="title pdingleft8 archive">
+
+            <table class="table" width="100%" cellpadding="0" cellspacing="0">
+                <tr class="tr">
+                                                            <td class="td" valign="middle">
+                                                <h3 class="normal inlblk brkword fbold" title="Авто полив, посев газонов, сооружение альпийских горок">
+                            <a data-city-id="268" data-category-id="823" name="396076380"></a>
+                            Авто полив, посев газонов, сооружение ал...                        </h3>
+                    </td>
+                </tr>
+            </table>
+
+            <div class="x-small lheight16 margintop3 rel
+              ">
+                
+
+                                
+                                <a id="preview396076380" class="tdnone marginright5" title="Авто полив, посев газонов, сооружение альпийских горок"
+                   href="https://www.olx.ua/obyavlenie/avto-poliv-posev-gazonov-sooruzhenie-alpiyskih-gorok-IDqNTyI.html"
+                   target="_blank">
+                    <i data-icon="preview" class="vmiddle"></i>
+                    <span class="link"><span>Просмотреть</span></span> </a>
+                
+                                                                                <a id="edit396076380" data-ad="396076380" class="tdnone marginright5 editme" href="https://www.olx.ua/post-new-ad/edit/396076380/?bs=myaccount_edit&ref%5B0%5D%5Bpath%5D%5B0%5D=archive&ref%5B0%5D%5Baction%5D=myaccount&ref%5B0%5D%5Bmethod%5D=index" title="Изменить">
+                    <i data-icon="pen" class="vmiddle"></i>
+                    <span class="link"><span>Редактировать</span></span> </a>
+                                
+                                <a href="#" class="tdnone marginright5 nowrap remove-link globalAction removeme" data-code="removeme"
+                   data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk2MDc2MzgwIiwiZXhwIjoxNDg5NTk2NDE0fQ.tO59gCJT-8Sj03sQZIHSZXtqF-xHmLLBoIFXyLtphm4"
+                   title="Удалить">
+                    <i data-icon="remove" class="vmiddle"></i>
+                    <span class="link reporthov"><span>Удалить</span></span>
+                </a>
+                
+                
+                                <a href="#" title="activatecourier"
+                   class="tdnone nowrap remove-link globalAction activatecourier activatecourier396076380 {code:'activatecourier', allowed: 0, status: 0}"
+                   data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk2MDc2MzgwIiwiZXhwIjoxNDg5NTk2NDE0fQ.deTMy0Uvy3Wiug0Z54kjiSelyx4_YiKJY1bGK43iWYs">
+                    <span class="hidden">&nbsp;</span> </a>
+                <a href="#" title="deactivatecourier"
+                   class="tdnone nowrap remove-link globalAction deactivatecourier deactivatecourier396076380 {code:'deactivatecourier', allowed: 0, status: 0}"
+                   data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk2MDc2MzgwIiwiZXhwIjoxNDg5NTk2NDE0fQ.Zj4j5wrYMJov3ITK1Dd2CY4J7q7ne6zzQCNa-vM4hw8">
+                    <span class="hidden">&nbsp;</span> </a>
+                                                                                </div>
+
+        </div>
+    </td>
+
+    
+    
+    <td class="td"         <p class="large lheight18 pdingright5">
+                        -
+                    </p>
+    </td>
+
+    
+
+    
+
+    
+    <td class="td nowrap">
+                <span class="button messagesOffer disabled marginright5 normal br3 cfff vtop rel"> <span
+                class="icon b_messagesitem vtop">&nbsp;</span> <span class="inlblk">0</span></span>
+            </td>
+    
+
+    
+    <td width="1" class="td tright">
+        <div class="rel rightactions marginright5">
+            <table class="table" cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                                                                                                                                                        <td class="tright">
+                        
+                        
+                        
+                        
+                        
+                        
+                        <a href="#" title="Активировать"
+                           class="button cfff normal activate-link activateOffer br3 marginright5 globalAction activateme {code:'activateme'}"
+                           data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk2MDc2MzgwIiwiZXhwIjoxNDg5NTk2NDE0fQ.Ya-JTnF8Rf26zOY8L9rMDTNFoQDbnD_xwYX6gPxDpuw">
+                            <span class="icon b_activateitem vtop">&nbsp;</span><span
+                                class="inlblk">Активировать</span>
+                        </a>
+
+                        
+                        <div class="activateEditError rowhint tleft suggesttitlebottom hint small abs zi6 br3 lheight16 rightactions"
+                             style="display: none;">
+                            Для более точного поиска пользователями OLX и повышения эффективности Ваших объявлений Вам необходимо отредактировать данные. Отредактируйте пожалуйста Ваше объявление и оно получит еще больше просмотров! -
+                            <a target="_blank" href="https://www.olx.ua/post-new-ad/edit/396076380/?ref%5B0%5D%5Bpath%5D%5B0%5D=archive&ref%5B0%5D%5Baction%5D=myaccount&ref%5B0%5D%5Bmethod%5D=index">Перейти к редактированию</a>
+                            <a href="#" class="icon abs mini remove">&nbsp;</a>
+
+                            <div class="target abs icon"></div>
+                        </div>
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                                            </td>
+                </tr>
+            </table>
+        </div>
+    </td>
+    
+    </tr>
+
+<tr class="tr row-stats lheight16 x-small" data-title="Авто полив, посев газонов, сооружение альпийских горок">
+    <td height="24" colspan="7">
+        <table class="table" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+                <td class="td first statsRow " valign="top">
+                    <div class="promo-labels">
+                                                                            
+                        
+                    </div>
+                </td>
+
+                <td class="td tcenter first confirmLabel confirmRow hidden" valign="top">
+                    <div class="rel">
+
+                        
+                        <div class="infolabel">
+                                                    </div>
+                    </div>
+                </td>
+
+                <td valign="top" class="td statsRow ">
+                                        <table class="table table-stats" cellpadding="0" cellspacing="0" width="100%">
+                        <tr class="tr">
+                            <td class="td tcenter" width="50">
+                                <div class="infolabel nowrap showChart link" data-ad-id="396076380" style="cursor: pointer;"><span>Статистика</span></div>
+                            </td>
+                            <td class="td tcenter" width="50">
+                                <div class="nowrap rel statsviewscloud">
+                                                                                                                                                                                    <div class="suggesttitlebottom abs zi2 br3 normal small lheight14 hidden">
+                                        <div class="suggesttext tleft">
+                                                                                                                                    <a href="#" class="link clearViews"
+                                               data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk2MDc2MzgwIiwiZXhwIjoxNDg5NTk2NDE0fQ.lR7mo6PK4A6_17ggsmPw7QtjQJTq_1ZrugE2JjDhzoE"
+                                               data-ad-id="396076380">
+                                                <span>Обнулить</span>
+                                            </a> количество просмотров                                                                                    </div>
+                                        <span class="target abs icon"></span>
+                                    </div>
+                                                                        <i data-icon="eye-light"></i>
+                        <span class="inlblk">Просмотры:
+                            <span class="statsviewsCounter" data-ad-id="396076380">13</span>
+                        </span>
+                                </div>
+                            </td>
+                            <td class="td tcenter" width="50">
+                                <div class="nowrap" title="Количество просмотров номера телефона, указанного в объявлении">
+                                    <i data-icon="handset"></i> Тел.:
+                        <span class="statMobile"  data-ad-id="396076380">
+                            4                        </span>
+                                </div>
+                            </td>
+                                                        <td class="td tcenter" width="50">
+                                <div class="nowrap" title=" Количество заинтересованных пользователей, которые добавили это объявление в Избранные">
+                                    <i data-icon="star-filled"></i> В Избранном:
+                        <span class="statsObserved" data-ad-id="396076380">
+                            0                        </span>
+                                </div>
+                            </td>
+                                                        <td class="td tright socials" width="389" valign="top">
+                                <div class="nowrap">
+                                                                    </div>
+                            </td>
+                        </tr>
+                    </table>
+                                    </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+<tr class="tr row-shadow">
+    <td class="td" colspan="7" height="12" valign="top">
+        <div class="rel">
+            <div class="abs action_js tcenter hidden">
+                <div class="inner overh">
+                    <p class="x-large fbold rel">
+                        <img src="https://s2.olx.ua/static/olxua/naspersclassifieds-regional/olxeu-atlas-web-olxua/static/img/myaccount-ajax-loader.gif"
+                             class="vmiddle marginright10 loader" width="32" height="32">
+                        <span class="message"></span>
+                    </p>
+                </div>
+                <div class="corner abs"></div>
+            </div>
+        </div>
+    </td>
+</tr>
+							<tr class="tr row-elem  " data-title="Монтаж и обслуживание систем автополива"
+    data-features='{"ad_id":396076782,"ad_photo":3,"ad_price":167,"price_currency":"USD","item_condition":"NA","poster_type":"normal","seller_id":90983262,"cat_l1_id":899,"cat_l1_name":"dom-i-sad","cat_l2_id":1433,"cat_l2_name":"sad-ogorod","category_id":1433,"region_id":25,"region_name":"ko","city_id":268,"city_name":"kiev","district_id":3,"district_name":"\u0414\u0430\u0440\u043d\u0438\u0446\u043a\u0438\u0439"}'>
+
+    <span id="uad396076782" data-features='{"ad_id":396076782,"ad_photo":3,"ad_price":167,"price_currency":"USD","item_condition":"NA","poster_type":"normal","seller_id":90983262,"cat_l1_id":899,"cat_l1_name":"dom-i-sad","cat_l2_id":1433,"cat_l2_name":"sad-ogorod","category_id":1433,"region_id":25,"region_name":"ko","city_id":268,"city_name":"kiev","district_id":3,"district_name":"\u0414\u0430\u0440\u043d\u0438\u0446\u043a\u0438\u0439"}'></span>
+
+    <td class="td tcenter">
+        <div class="rel zi2">
+            <input type="checkbox"
+                   class="checkbox adID forsale"
+                   value="396076782" name="id[]"/>
+        </div>
+    </td>
+
+    
+    <td class="td">
+        <div style="display: none;" id="dateContainerTpl">
+                        С:
+                        <span class="dateContainer_from"></span>
+                        <br>По:
+            <span class="dateContainer_to"></span>
+                    </div>
+        <p class="date dateContainer nowrap marginleft5 marginright5">
+                        С:
+            
+            2 март
+                        <br>По: <span class="validTo">Сегодня</span>
+                    </p>
+    </td>
+
+    
+    
+    <td class="td">
+                <span class="thumb fleft rel tdnone"> <img width="50" alt=""
+                                                   src="https://olxua-ring05.akamaized.net/images_slandocomua/449362022_1_94x72_montazh-i-obsluzhivanie-sistem-avtopoliva-kiev_rev003.jpg"
+                                                   class="list_thumbnail fleft"></span>
+            </td>
+
+    
+    
+    <td class="td">
+        <div class="title pdingleft8 archive">
+
+            <table class="table" width="100%" cellpadding="0" cellspacing="0">
+                <tr class="tr">
+                                                            <td class="td" valign="middle">
+                                                <h3 class="normal inlblk brkword fbold" title="Монтаж и обслуживание систем автополива">
+                            <a data-city-id="268" data-category-id="1433" name="396076782"></a>
+                            Монтаж и обслуживание систем автополива                        </h3>
+                    </td>
+                </tr>
+            </table>
+
+            <div class="x-small lheight16 margintop3 rel
+              ">
+                
+
+                                
+                                <a id="preview396076782" class="tdnone marginright5" title="Монтаж и обслуживание систем автополива"
+                   href="https://www.olx.ua/obyavlenie/montazh-i-obsluzhivanie-sistem-avtopoliva-IDqNTFc.html"
+                   target="_blank">
+                    <i data-icon="preview" class="vmiddle"></i>
+                    <span class="link"><span>Просмотреть</span></span> </a>
+                
+                                                                                <a id="edit396076782" data-ad="396076782" class="tdnone marginright5 editme" href="https://www.olx.ua/post-new-ad/edit/396076782/?bs=myaccount_edit&ref%5B0%5D%5Bpath%5D%5B0%5D=archive&ref%5B0%5D%5Baction%5D=myaccount&ref%5B0%5D%5Bmethod%5D=index" title="Изменить">
+                    <i data-icon="pen" class="vmiddle"></i>
+                    <span class="link"><span>Редактировать</span></span> </a>
+                                
+                                <a href="#" class="tdnone marginright5 nowrap remove-link globalAction removeme" data-code="removeme"
+                   data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk2MDc2NzgyIiwiZXhwIjoxNDg5NTk2NDE0fQ.eC5WKA5Ce07NKGTzKIj9V5S_m_-hUyA2xvAozPk-k74"
+                   title="Удалить">
+                    <i data-icon="remove" class="vmiddle"></i>
+                    <span class="link reporthov"><span>Удалить</span></span>
+                </a>
+                
+                
+                                <a href="#" title="activatecourier"
+                   class="tdnone nowrap remove-link globalAction activatecourier activatecourier396076782 {code:'activatecourier', allowed: 1, status: 0}"
+                   data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk2MDc2NzgyIiwiZXhwIjoxNDg5NTk2NDE0fQ.II5HlVNcl-G2fkZGoTwBZxHKuqrk_wuA1HfLnoi2F5A">
+                    <span class="hidden">&nbsp;</span> </a>
+                <a href="#" title="deactivatecourier"
+                   class="tdnone nowrap remove-link globalAction deactivatecourier deactivatecourier396076782 {code:'deactivatecourier', allowed: 0, status: 0}"
+                   data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk2MDc2NzgyIiwiZXhwIjoxNDg5NTk2NDE0fQ.bXlPTCxoZehlXlQtUpPOBIsJ40zGlmX3deG6kfwEXdA">
+                    <span class="hidden">&nbsp;</span> </a>
+                                                                                </div>
+
+        </div>
+    </td>
+
+    
+    
+    <td class="td"         data-price="167">
+            <p class="large lheight18 pdingright5">
+            
+                        <span class="nowrap ">167 $</span>
+                                </p>
+    </td>
+
+    
+
+    
+
+    
+    <td class="td nowrap">
+                <span class="button messagesOffer disabled marginright5 normal br3 cfff vtop rel"> <span
+                class="icon b_messagesitem vtop">&nbsp;</span> <span class="inlblk">0</span></span>
+            </td>
+    
+
+    
+    <td width="1" class="td tright">
+        <div class="rel rightactions marginright5">
+            <table class="table" cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                                                                                                                                                        <td class="tright">
+                        
+                        
+                        
+                        
+                        
+                        
+                        <a href="#" title="Активировать"
+                           class="button cfff normal activate-link activateOffer br3 marginright5 globalAction activateme {code:'activateme'}"
+                           data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk2MDc2NzgyIiwiZXhwIjoxNDg5NTk2NDE0fQ.pVd-oQLdDKM9nxgVRjVJ2Rg_4uBRwJaDiTIg0iggZ3E">
+                            <span class="icon b_activateitem vtop">&nbsp;</span><span
+                                class="inlblk">Активировать</span>
+                        </a>
+
+                        
+                        <div class="activateEditError rowhint tleft suggesttitlebottom hint small abs zi6 br3 lheight16 rightactions"
+                             style="display: none;">
+                            Для более точного поиска пользователями OLX и повышения эффективности Ваших объявлений Вам необходимо отредактировать данные. Отредактируйте пожалуйста Ваше объявление и оно получит еще больше просмотров! -
+                            <a target="_blank" href="https://www.olx.ua/post-new-ad/edit/396076782/?ref%5B0%5D%5Bpath%5D%5B0%5D=archive&ref%5B0%5D%5Baction%5D=myaccount&ref%5B0%5D%5Bmethod%5D=index">Перейти к редактированию</a>
+                            <a href="#" class="icon abs mini remove">&nbsp;</a>
+
+                            <div class="target abs icon"></div>
+                        </div>
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                                            </td>
+                </tr>
+            </table>
+        </div>
+    </td>
+    
+    </tr>
+
+<tr class="tr row-stats lheight16 x-small" data-title="Монтаж и обслуживание систем автополива">
+    <td height="24" colspan="7">
+        <table class="table" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+                <td class="td first statsRow " valign="top">
+                    <div class="promo-labels">
+                                                                            
+                        
+                    </div>
+                </td>
+
+                <td class="td tcenter first confirmLabel confirmRow hidden" valign="top">
+                    <div class="rel">
+
+                        
+                        <div class="infolabel">
+                                                    </div>
+                    </div>
+                </td>
+
+                <td valign="top" class="td statsRow ">
+                                        <table class="table table-stats" cellpadding="0" cellspacing="0" width="100%">
+                        <tr class="tr">
+                            <td class="td tcenter" width="50">
+                                <div class="infolabel nowrap showChart link" data-ad-id="396076782" style="cursor: pointer;"><span>Статистика</span></div>
+                            </td>
+                            <td class="td tcenter" width="50">
+                                <div class="nowrap rel statsviewscloud">
+                                                                                                                                                                                    <div class="suggesttitlebottom abs zi2 br3 normal small lheight14 hidden">
+                                        <div class="suggesttext tleft">
+                                                                                                                                    <a href="#" class="link clearViews"
+                                               data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk2MDc2NzgyIiwiZXhwIjoxNDg5NTk2NDE0fQ.n_uAX-Jn3zINLYImxeozP_JWnemB4SE8hULXGdzWzik"
+                                               data-ad-id="396076782">
+                                                <span>Обнулить</span>
+                                            </a> количество просмотров                                                                                    </div>
+                                        <span class="target abs icon"></span>
+                                    </div>
+                                                                        <i data-icon="eye-light"></i>
+                        <span class="inlblk">Просмотры:
+                            <span class="statsviewsCounter" data-ad-id="396076782">8</span>
+                        </span>
+                                </div>
+                            </td>
+                            <td class="td tcenter" width="50">
+                                <div class="nowrap" title="Количество просмотров номера телефона, указанного в объявлении">
+                                    <i data-icon="handset"></i> Тел.:
+                        <span class="statMobile"  data-ad-id="396076782">
+                            2                        </span>
+                                </div>
+                            </td>
+                                                        <td class="td tcenter" width="50">
+                                <div class="nowrap" title=" Количество заинтересованных пользователей, которые добавили это объявление в Избранные">
+                                    <i data-icon="star-filled"></i> В Избранном:
+                        <span class="statsObserved" data-ad-id="396076782">
+                            0                        </span>
+                                </div>
+                            </td>
+                                                        <td class="td tright socials" width="389" valign="top">
+                                <div class="nowrap">
+                                                                    </div>
+                            </td>
+                        </tr>
+                    </table>
+                                    </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+<tr class="tr row-shadow">
+    <td class="td" colspan="7" height="12" valign="top">
+        <div class="rel">
+            <div class="abs action_js tcenter hidden">
+                <div class="inner overh">
+                    <p class="x-large fbold rel">
+                        <img src="https://s2.olx.ua/static/olxua/naspersclassifieds-regional/olxeu-atlas-web-olxua/static/img/myaccount-ajax-loader.gif"
+                             class="vmiddle marginright10 loader" width="32" height="32">
+                        <span class="message"></span>
+                    </p>
+                </div>
+                <div class="corner abs"></div>
+            </div>
+        </div>
+    </td>
+</tr>
+							<tr class="tr row-elem  " data-title="Автополив, орошение, автоматический полив"
+    data-features='{"ad_id":395852304,"ad_photo":3,"item_condition":"NA","poster_type":"normal","seller_id":90983262,"cat_l1_id":7,"cat_l1_name":"uslugi","cat_l2_id":186,"cat_l2_name":"prochie-uslugi","category_id":186,"region_id":25,"region_name":"ko","city_id":268,"city_name":"kiev","district_id":3,"district_name":"\u0414\u0430\u0440\u043d\u0438\u0446\u043a\u0438\u0439"}'>
+
+    <span id="uad395852304" data-features='{"ad_id":395852304,"ad_photo":3,"item_condition":"NA","poster_type":"normal","seller_id":90983262,"cat_l1_id":7,"cat_l1_name":"uslugi","cat_l2_id":186,"cat_l2_name":"prochie-uslugi","category_id":186,"region_id":25,"region_name":"ko","city_id":268,"city_name":"kiev","district_id":3,"district_name":"\u0414\u0430\u0440\u043d\u0438\u0446\u043a\u0438\u0439"}'></span>
+
+    <td class="td tcenter">
+        <div class="rel zi2">
+            <input type="checkbox"
+                   class="checkbox adID notsale"
+                   value="395852304" name="id[]"/>
+        </div>
+    </td>
+
+    
+    <td class="td">
+        <div style="display: none;" id="dateContainerTpl">
+                        С:
+                        <span class="dateContainer_from"></span>
+                        <br>По:
+            <span class="dateContainer_to"></span>
+                    </div>
+        <p class="date dateContainer nowrap marginleft5 marginright5">
+                        С:
+            
+            1 март
+                        <br>По: <span class="validTo">Сегодня</span>
+                    </p>
+    </td>
+
+    
+    
+    <td class="td">
+                <span class="thumb fleft rel tdnone"> <img width="50" alt=""
+                                                   src="https://olxua-ring03.akamaized.net/images_slandocomua/449053802_1_94x72_avtopoliv-oroshenie-avtomaticheskiy-poliv-kiev_rev003.jpg"
+                                                   class="list_thumbnail fleft"></span>
+            </td>
+
+    
+    
+    <td class="td">
+        <div class="title pdingleft8 archive">
+
+            <table class="table" width="100%" cellpadding="0" cellspacing="0">
+                <tr class="tr">
+                                                            <td class="td" valign="middle">
+                                                <h3 class="normal inlblk brkword fbold" title="Автополив, орошение, автоматический полив">
+                            <a data-city-id="268" data-category-id="186" name="395852304"></a>
+                            Автополив, орошение, автоматический поли...                        </h3>
+                    </td>
+                </tr>
+            </table>
+
+            <div class="x-small lheight16 margintop3 rel
+              ">
+                
+
+                                
+                                <a id="preview395852304" class="tdnone marginright5" title="Автополив, орошение, автоматический полив"
+                   href="https://www.olx.ua/obyavlenie/avtopoliv-oroshenie-avtomaticheskiy-poliv-IDqMXgA.html"
+                   target="_blank">
+                    <i data-icon="preview" class="vmiddle"></i>
+                    <span class="link"><span>Просмотреть</span></span> </a>
+                
+                                                                                <a id="edit395852304" data-ad="395852304" class="tdnone marginright5 editme" href="https://www.olx.ua/post-new-ad/edit/395852304/?bs=myaccount_edit&ref%5B0%5D%5Bpath%5D%5B0%5D=archive&ref%5B0%5D%5Baction%5D=myaccount&ref%5B0%5D%5Bmethod%5D=index" title="Изменить">
+                    <i data-icon="pen" class="vmiddle"></i>
+                    <span class="link"><span>Редактировать</span></span> </a>
+                                
+                                <a href="#" class="tdnone marginright5 nowrap remove-link globalAction removeme" data-code="removeme"
+                   data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk1ODUyMzA0IiwiZXhwIjoxNDg5NTk2NDE1fQ.5rswoq3htcnU4E2NPGHWcGAlj4s8cyOI2-S7qDV1ck4"
+                   title="Удалить">
+                    <i data-icon="remove" class="vmiddle"></i>
+                    <span class="link reporthov"><span>Удалить</span></span>
+                </a>
+                
+                
+                                <a href="#" title="activatecourier"
+                   class="tdnone nowrap remove-link globalAction activatecourier activatecourier395852304 {code:'activatecourier', allowed: 0, status: 0}"
+                   data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk1ODUyMzA0IiwiZXhwIjoxNDg5NTk2NDE1fQ.A8O_uTlHPN_WQoauDYG7-VMSSLCF2xj7Psu8rA5BphU">
+                    <span class="hidden">&nbsp;</span> </a>
+                <a href="#" title="deactivatecourier"
+                   class="tdnone nowrap remove-link globalAction deactivatecourier deactivatecourier395852304 {code:'deactivatecourier', allowed: 0, status: 0}"
+                   data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk1ODUyMzA0IiwiZXhwIjoxNDg5NTk2NDE1fQ.IuOhsuC19GlO13evm8hc-GLKcN5fRK-xfnl8gPxOi0k">
+                    <span class="hidden">&nbsp;</span> </a>
+                                                                                </div>
+
+        </div>
+    </td>
+
+    
+    
+    <td class="td"         <p class="large lheight18 pdingright5">
+                        -
+                    </p>
+    </td>
+
+    
+
+    
+
+    
+    <td class="td nowrap">
+                <span class="button messagesOffer disabled marginright5 normal br3 cfff vtop rel"> <span
+                class="icon b_messagesitem vtop">&nbsp;</span> <span class="inlblk">0</span></span>
+            </td>
+    
+
+    
+    <td width="1" class="td tright">
+        <div class="rel rightactions marginright5">
+            <table class="table" cellpadding="0" cellspacing="0" width="100%">
+                <tr>
+                                                                                                                                                        <td class="tright">
+                        
+                        
+                        
+                        
+                        
+                        
+                        <a href="#" title="Активировать"
+                           class="button cfff normal activate-link activateOffer br3 marginright5 globalAction activateme {code:'activateme'}"
+                           data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk1ODUyMzA0IiwiZXhwIjoxNDg5NTk2NDE1fQ.ujSetaajK915h-8k2T50udo1L6FUjquqEzU3QK9WDVE">
+                            <span class="icon b_activateitem vtop">&nbsp;</span><span
+                                class="inlblk">Активировать</span>
+                        </a>
+
+                        
+                        <div class="activateEditError rowhint tleft suggesttitlebottom hint small abs zi6 br3 lheight16 rightactions"
+                             style="display: none;">
+                            Для более точного поиска пользователями OLX и повышения эффективности Ваших объявлений Вам необходимо отредактировать данные. Отредактируйте пожалуйста Ваше объявление и оно получит еще больше просмотров! -
+                            <a target="_blank" href="https://www.olx.ua/post-new-ad/edit/395852304/?ref%5B0%5D%5Bpath%5D%5B0%5D=archive&ref%5B0%5D%5Baction%5D=myaccount&ref%5B0%5D%5Bmethod%5D=index">Перейти к редактированию</a>
+                            <a href="#" class="icon abs mini remove">&nbsp;</a>
+
+                            <div class="target abs icon"></div>
+                        </div>
+
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                                            </td>
+                </tr>
+            </table>
+        </div>
+    </td>
+    
+    </tr>
+
+<tr class="tr row-stats lheight16 x-small" data-title="Автополив, орошение, автоматический полив">
+    <td height="24" colspan="7">
+        <table class="table" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+                <td class="td first statsRow " valign="top">
+                    <div class="promo-labels">
+                                                                            
+                        
+                    </div>
+                </td>
+
+                <td class="td tcenter first confirmLabel confirmRow hidden" valign="top">
+                    <div class="rel">
+
+                        
+                        <div class="infolabel">
+                                                    </div>
+                    </div>
+                </td>
+
+                <td valign="top" class="td statsRow ">
+                                        <table class="table table-stats" cellpadding="0" cellspacing="0" width="100%">
+                        <tr class="tr">
+                            <td class="td tcenter" width="50">
+                                <div class="infolabel nowrap showChart link" data-ad-id="395852304" style="cursor: pointer;"><span>Статистика</span></div>
+                            </td>
+                            <td class="td tcenter" width="50">
+                                <div class="nowrap rel statsviewscloud">
+                                                                                                                                                                                    <div class="suggesttitlebottom abs zi2 br3 normal small lheight14 hidden">
+                                        <div class="suggesttext tleft">
+                                                                                                                                    <a href="#" class="link clearViews"
+                                               data-token="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk1ODUyMzA0IiwiZXhwIjoxNDg5NTk2NDE1fQ.QV5NqyOcjVLrJ6CxCqDsBO-ao3d2zhLgOsQjuRVyEPA"
+                                               data-ad-id="395852304">
+                                                <span>Обнулить</span>
+                                            </a> количество просмотров                                                                                    </div>
+                                        <span class="target abs icon"></span>
+                                    </div>
+                                                                        <i data-icon="eye-light"></i>
+                        <span class="inlblk">Просмотры:
+                            <span class="statsviewsCounter" data-ad-id="395852304">15</span>
+                        </span>
+                                </div>
+                            </td>
+                            <td class="td tcenter" width="50">
+                                <div class="nowrap" title="Количество просмотров номера телефона, указанного в объявлении">
+                                    <i data-icon="handset"></i> Тел.:
+                        <span class="statMobile"  data-ad-id="395852304">
+                            6                        </span>
+                                </div>
+                            </td>
+                                                        <td class="td tcenter" width="50">
+                                <div class="nowrap" title=" Количество заинтересованных пользователей, которые добавили это объявление в Избранные">
+                                    <i data-icon="star-filled"></i> В Избранном:
+                        <span class="statsObserved" data-ad-id="395852304">
+                            0                        </span>
+                                </div>
+                            </td>
+                                                        <td class="td tright socials" width="389" valign="top">
+                                <div class="nowrap">
+                                                                    </div>
+                            </td>
+                        </tr>
+                    </table>
+                                    </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+<tr class="tr row-shadow">
+    <td class="td" colspan="7" height="12" valign="top">
+        <div class="rel">
+            <div class="abs action_js tcenter hidden">
+                <div class="inner overh">
+                    <p class="x-large fbold rel">
+                        <img src="https://s2.olx.ua/static/olxua/naspersclassifieds-regional/olxeu-atlas-web-olxua/static/img/myaccount-ajax-loader.gif"
+                             class="vmiddle marginright10 loader" width="32" height="32">
+                        <span class="message"></span>
+                    </p>
+                </div>
+                <div class="corner abs"></div>
+            </div>
+        </div>
+    </td>
+</tr>
+					 </tbody>
+	</table>
+						</div>
+				</div>
+			
+					</div>
+		<div id="realEstateDiv" class="hidden">
+			<div class="inner tcenter">
+				<ul>
+					<li class="rel item-1">
+						<p><strong>Самое большое число клиентов в Украине</strong></p>
+						<p>Более 1 млн. человек ищут недвижимость на OLX каждый месяц</p>
+					</li>
+					<li class="rel item-2">
+						<p><strong>Сервис, который продает</strong></p>
+						<p>Более 50000 сделок ежемесячно</p>
+					</li>
+					<li class="rel item-3">
+						<p><strong>Ваши клиенты ищут на OLX</strong></p>
+						<p>45%  интернет пользователей считают OLX сервисом №1 для аренды/сдачи жилья. Это больше, чем у 9 ближайших конкурентов вместе взятых.</p>
+					</li>
+				</ul>
+			</div>
+			<div class="tcenter clr pding5">
+				<p class="margintop10 marginbott10">
+					<a onclick="_gaq.push(['_trackEvent', 'Pop Up', 'Push', 'Buy Package']);"
+					   class="button big3 br3 circleshadow"
+					   href="https://www.olx.ua/payment/multipay/?index%5B0%5D=15&subscriptionCategoryId=1">
+						<span class="cfff">Приобрести пакет</span>
+					</a>
+				</p>
+				<p class="large lheight18 marginbott10">
+					<a href="https://www.olx.ua/paidlimits/" class="link" target="_blank" onclick="_gaq.push(['_trackEvent', 'Pop Up', 'Push', 'More']);">
+						<span>Узнать больше</span>
+					</a>
+				</p>
+			</div>
+		</div>
+        			<div id="rowStatsDiv" class="hidden">
+    <div class="fStats">
+        <div class="fStats__header">
+            <div class="fStats__header-img"></div>
+            <div class="fStats__header-text">
+                <span class="fStats__title"></span>
+                По: <span class="fStats__expired"></span>
+            </div>
+        </div>
+        <div class="clr">
+            <div class="fStats__graph ">
+                <nav class="fStats__graph-type">
+                    <a href="javascript:;" class="tdnone selected" id="loadViews">Просмотры</a>
+                    <a href="javascript:;" class="tdnone" id="loadReplices">Сообщения</a>
+                    <div class="fStats__select">
+                        <select name="" id="changePeriod">
+                                                            <option data-step="1" value="30">30 дней</option>
+                                                            <option data-step="3" value="60">60 дней</option>
+                                                    </select>
+                    </div>
+                </nav>
+
+                <div id="fStatsContainer" class="fStats__graph-container">
+                </div>
+            </div>
+                        <div class="fStats__aside">
+                <a class="fStats__box" id="pushup_chart_link" href="" data-href="https://www.olx.ua/payment/multipay/?index%5B0%5D=5&bs=myaccount_statistic">
+                    <span class="fStats__box-head block rel">
+                        <span class="icon refreshpack abs"></span>
+                        <strong class="large">Поднятие в верх списка</strong>
+                    </span>
+                    <span class="fStats__box-inner block rel">
+                        <span class="block item rel">
+                            <span class="icon point abs"></span>
+                            Если вы хотите, чтобы больше людей увидели ваше объявление, просто поднимите его вверх списка. При этом дата объявления обновится на текущую. Таким образом, ваше предложение сможет получить больше откликов от покупателей.                        </span>
+                    </span>
+                    <span class="fStats__box-bottom block large">
+                        Поднять в верх списка                    </span>
+                </a>
+            </div>
+                    </div>
+    </div>
+</div>
+		        <div></div>		
+	</div>
+</section>
+    <footer id="footer-container">
+		<div class="wrapper small" id="lastwrapper">
+		<div class="margintop15 clr rel">
+			<div class="fleft">
+									<p>
+					<a href="https://www.olx.ua" class="tdnone" title="OLX.ua">
+						<span class="icon websitegray inlblk vtop">&nbsp;</span>
+					</a>
+					</p>
+							</div>
+			<div class="boxindent">
+				<div class="clr">
+					
+<div class="static box fleft">
+	<ul class="small lheight16">
+		
+		<li class="block">
+			<a id="footerLinkMobileApps" class="link gray" title="Мобильные приложения" href="https://www.olx.ua/mobileapps/">
+				<span>Мобильные приложения</span>
+			</a>
+		</li>
+		<li class="block">
+			<a href="http://help.olx.ua/hc/ru" class="link gray" title="Помощь и Обратная связь">
+				<span>Помощь и Обратная связь</span>
+			</a>
+		</li>
+						<li class="block">
+					<a class="link gray" title="Топ-объявления" href="https://www.olx.ua/topfeature/">
+						<span>Топ-объявления</span>
+					</a>
+				</li>
+				<li class="block">
+	<a class="link gray" title="Платные услуги" href="">
+		<span>Платные услуги</span>
+	</a>
+</li>
+	<li class="block">
+		<a href="http://blog.olx.ua/o-nas/dlya-pressyi/" class="link gray" title="Для прессы" target="_blank">
+			<span>Для прессы</span>
+		</a>
+	</li>
+	<li class="block">
+		<a href="http://blog.olx.ua/o-nas/reklama-na-olx-ua/" class="link gray" title="Реклама на сайте" target="_blank">
+			<span>Реклама на сайте</span>
+		</a>
+	</li>
+	<li class="block">
+		<a href="http://blog.olx.ua" class="link gray" title="Blog OLX.ua" target="_blank">
+			<span>Блог OLX</span>
+		</a>
+	</li>
+		<li class="block">
+			<a href="https://www.olx.ua/terms/" class="link gray inlblk rel" title="Условия использования">
+				<span>Условия использования</span>
+							</a>
+		</li>
+        		        <li class="block">
+			<a href="#" class="tdnone link spoiler graydot footer-partners" id="footerPartners">
+				<span class="inlblk">Партнёры</span>
+			</a>
+		</li>
+	</ul>
+</div>
+<div class="static box fleft">
+	<ul class="small lheight16">
+        
+        <li class="block">
+			<a href="https://www.olx.ua/howitworks/" class="link gray nowrap" title="Как продавать и покупать?">
+				<span>Как продавать и покупать?</span>
+			</a>
+		</li>
+		<li class="block">
+			<a href="https://www.olx.ua/safetyuser/" title="Правила безопасности" class="link gray">
+				<span>Правила безопасности</span>
+			</a>
+		</li>
+		<li class="block">
+			<a href="https://www.olx.ua/sitemap/" class="link gray" title="Карта сайта">
+				<span>Карта сайта</span>
+			</a>
+		</li>
+		<li class="block">
+			<a href="https://www.olx.ua/sitemap/regions/" class="link gray" title="Карта регионов">
+				<span>Карта регионов</span>
+			</a>
+		</li>
+							<li class="block">
+				<a href="https://www.olx.ua/popular/" class="link gray" title="Популярные запросы">
+					<span>Популярные запросы</span>
+				</a>
+			</li>
+				
+        <li class="block">
+            <a href="http://joinolx.com" class="link gray" title="Работа в OLX" target="_blank">
+                <span>Работа в OLX</span>
+            </a>
+        </li>
+							</ul>
+</div>
+					<div class="footerapps fright rel tcenter">
+	<a href="https://play.google.com/store/apps/details?id=ua.slando&referrer=utm_source%3Dolx.ua%26utm_medium%3Dcpc%26utm_campaign%3Dandroid-app-footer" id="footerAppAndroid" target="_blank" class="inlblk">
+		<span class="icon block googleplay"> в Google Play</span>
+		<span class="tag-line tleft hidden">
+			Скачайте в			<strong class="block">Google Play</strong>
+		</span>
+	</a>
+	<a href="https://itunes.apple.com/ua/app/slando.ua-besplatnye-ob-avlenia/id663217552?l=pl&ls=1&mt=8" id="footerAppIphone" target="_blank" class="inlblk">
+		<span class="icon block appstore"> в AppStore</span>
+		<span class="tag-line hidden">
+			Скачайте в			<strong class="block">AppStore</strong>
+		</span>
+	</a>
+			<a href="http://www.windowsphone.com/ru-ru/store/app/olx-ua/e5324a28-1546-454e-a3b3-51e7fac930b1" id="footerAppWin" target="_blank" class="inlblk">
+			<span class="icon block windowsstore"> в WindowsStore</span>
+			<span class="tag-line tright hidden">
+				Доступно для				<strong class="block">Windows Phone</strong>
+			</span>
+		</a>
+	    <p class="tag-line">Бесплатное приложение для твоего телефона</p>
+</div>
+				</div>
+				<div class="partners box margin10_0 hidden" id="footerPartnersContainer">
+	<ul class="clr">
+						<li class="part25 fleft">
+				<a href="https://www.olx.bg" target="_blank" class="link gray">
+					<span class="icon fleft flag olxbg"></span><span>OLX.bg</span>
+				</a>
+			</li>
+								<li class="part25 fleft">
+				<a href="https://www.olx.pl" target="_blank" class="link gray">
+					<span class="icon fleft flag olxpl"></span><span>OLX.pl</span>
+				</a>
+			</li>
+								<li class="part25 fleft">
+				<a href="https://www.olx.ro" target="_blank" class="link gray">
+					<span class="icon fleft flag olxro"></span><span>OLX.ro</span>
+				</a>
+			</li>
+				</ul>
+	</div>
+			</div>
+						                                <div id="mobileAppsbadge" class="fix hidden">
+                    <a href="https://www.olx.ua/mobileapps/" class="icon tdnone abs"></a>
+                    <a href="#" id="mobileAppsbadgeClose" class="tdnone abs" title="Закрыть"></a>
+                </div>
+			 	<ul id="mobile_change" class="breaklist version tcenter margintop15" style="display: none">
+					<li class="inline">
+						<a href="https://www.olx.ua/disable/m/" rel="nofollow">Мобильная версия</a>
+					</li>
+					<li class="inline">
+						<a href="https://www.olx.ua/disable/i/" rel="nofollow">Версия для смартфонов</a>
+					</li>
+					<li class="inline">
+						<span>Десктоп версия</span>
+					</li>
+				</ul>
+					</div>
+	</div>
+    <div id="div-gpt-ad-test"></div></footer>
+<div id="message_system" style="display: none">
+	<div class="inner">
+		<div class="tleft x-normal lheight20 rel messagesystem ">
+			<p>
+				<i class="fleft status"></i>
+				<span class="msg block overh"></span>
+			</p>
+		</div>
+	</div>
+</div>
+<div id="dialogMessage" class="hidden">
+	<div class="inner"></div>
+</div>
+<div id="saveFavDiv" class="hidden">
+	<div class="inner tcenter">
+		<div class="large lheight18">
+			<p class="marginbott15 margintop10 typeSearch hidden">
+				<strong>Результаты поиска были добавлены в Избранные</strong>
+			</p>
+			<p class="marginbott15 margintop10 typeOffer hidden">
+				<strong>Объявление было добавлено в Избранные</strong>
+			</p>
+			<p class="margin5_0"> Войдите, чтобы сохранить Наблюдаемые в своей учетной записи</p>
+			<p class="margintop25 marginbott25">
+				<a class="button big3 br3 circleshadow" href="https://www.olx.ua/account/?origin=observepopup">
+					<span class="cfff large">Войти</span>
+				</a>
+			</p>
+			<p class="margin5_0">или <a href="https://www.olx.ua/account/register/" class="link">
+					<span>Создать учетную запись</span>
+				</a>
+			</p>
+		</div>
+	</div>
+	<div class="tcenter brtop-1 clr pding10">
+		<p class="margin20_0 large lheight18">
+			<a href="#" class="link" onclick="$.fancybox.close(); return false;">
+				<span>Нет, спасибо</span>
+			</a>
+		</p>
+	</div>
+</div>
+<div id="synchroFavDiv" class="hidden">
+	<div class="inner"></div>
+	<div class="tcenter brtop-1 clr pding10">
+		<p class="margin10_0">
+			<a class="button big br3" href="#" id="synchronizeObservedConfirm">
+				<span class="cfff large">Сохранить в Избранные</span>
+			</a>
+		</p>
+		<p class="margin5_0">
+			<a href="#" class="link" id="synchronizeObservedCancel">
+				<span>Нет, спасибо</span>
+			</a>
+		</p>
+	</div>
+</div>
+
+<div class="topinfo rel hidden" id="cookiesBar">
+    <a href="javascript:void(0);" class="cookiesBarClose abs close" data-icon="close"></a>
+    <p class="normal cfff">
+        Этот сайт использует cookies. Вы можете изменить настройки cookies в своём браузере.         <a href="https://www.olx.ua/cookies/" target="_blank" class="link tdnone cookiesBarClose">Узнать больше</a>.
+    </p>
+</div>
+	<div id="createPasswordPopup" class="create-password__overlay hidden">
+		<div class="create-password__inner">
+			<h4>Установите пароль для вашей учетной записи</h4>
+			<p>Какие преимущества создания учетной записи на OLX? </p>
+			<ul>
+				<li>Размещение объявлений без подтверждения</li>
+				<li>Доступ к пользователям OLX в любое время</li>
+				<li>Легкость настройки учетной записи</li>
+			</ul>
+
+			<a class="login-button login-button--facebook" href="https://www.olx.ua/account/facebookmerge/">Вход с Facebook</a>
+			<a class="login-button" href="https://www.olx.ua/myaccount/settings/#password">Установить пароль</a>
+		</div>
+	</div>
+
+
+    <input type="hidden" id="googlePlusState" value="">
+    <div id="mandatoryLoginDiv" class="hidden">
+        <div class="mandatory-login clr">
+            <div class="mandatory-login__why">
+                <h3 class="create-password__title">Авторизуйтесь в свою учётную запись OLX!</h3>
+                <ul class="create-password__list">
+                    <li>Быстрее получайте ответы на объявления</li>
+                    <li>Получите доступ к истории всех ответов</li>
+                    <li>Пользуйтесь всеми функциями вашей учётной записи</li>
+                </ul>
+            </div>
+            <div class="mandatory-login__login">
+                <div class="login-box">
+    <div class="login-tabs">
+        <nav class="login-tabs__navigation">
+            <ul>
+                <li><a id="login_tab" class="active" href="" data-content="login">Войти</a></li>
+                <li><a id="register_tab" href="" data-content="register">Регистрация</a></li>
+            </ul>
+        </nav>
+        <ul class="login-tabs__content">
+            <li class="active" data-content="login">
+                <div class="login-form">
+    <form id="loginForm" class="default" action="https://www.olx.ua/account/?ref%5B0%5D%5Bpath%5D%5B0%5D=archive&ref%5B0%5D%5Baction%5D=myaccount&ref%5B0%5D%5Bmethod%5D=index#login" method="post">
+                    <a id="vkontakteLogin" class="login-button login-button--vkontakte"
+               href="https://www.olx.ua/account/vkontaktelogin/?ref%5B0%5D%5Bpath%5D%5B0%5D=archive&ref%5B0%5D%5Baction%5D=myaccount&ref%5B0%5D%5Bmethod%5D=index">Вход с Vkontakte</a>
+                        <fieldset class="standard-login-box">
+                            <span class="login-form__or">или</span>
+                        <div class="fblock">
+                <div class="focusbox">
+                                            <input id="userEmail" class="light required" type="text" name="login[email]"
+                               value="" placeholder="Email-адрес (в учётную запись OLX)"
+                               title="Email-адрес (в учётную запись OLX)">
+                                                        </div>
+            </div>
+            <div class="fblock ">
+                <div class="focusbox">
+                    <input id="userPass" class="light required" type="password" name="login[password]"
+                           value=""
+                           placeholder="Пароль"
+                           title="Пароль"
+                           autocomplete="off">
+                </div>
+            </div>
+                        <div class="login-form__bottom">
+                <div class="login-form__rememberme">
+                    <input id="checkbox_user-remember" type="checkbox" name="login[remember-me]"
+                           checked="checked">
+                    <label for="checkbox_user-remember">Запомнить меня</label>
+                </div>
+                <a class="login-form__lostpassword" href="https://www.olx.ua/account/password/">Не можете войти?</a>
+            </div>
+            <button id="se_userLogin" class="login-button">Войти</button>
+                            <a class="login-form__othermethods" href="">Другие способы входа</a>
+                    </fieldset>
+    </form>
+    <div class="other-methods-box hidden">
+                                    <a id="fblogin" class="login-button login-button--facebook" href="https://www.olx.ua/account/facebooklogin/?ref%5B0%5D%5Bpath%5D%5B0%5D=archive&ref%5B0%5D%5Baction%5D=myaccount&ref%5B0%5D%5Bmethod%5D=index" data-ref="login">Вход с Facebook</a>
+                            <a href="" class="login-button login-button--email">Вход с email-адресом</a>
+                    </div>
+    <p class="login-form__terms">
+               Входя в раздел Мой профиль, вы принимаете <a href="https://www.olx.ua/terms/" target="_blank">Условия использования</a> сайта    </p>
+
+</div>
+
+            </li>
+            <li data-content="register">
+                <form id="registerForm" class="login-form default" action="https://www.olx.ua/account/?ref%5B0%5D%5Bpath%5D%5B0%5D=archive&ref%5B0%5D%5Baction%5D=myaccount&ref%5B0%5D%5Bmethod%5D=index#register" method="post">
+            <a id="vkontakteLogin" class="login-button login-button--vkontakte"
+           href="https://oauth.vk.com/authorize?client_id=3156355&redirect_uri=https%3A%2F%2Fwww.olx.ua%2Faccount%2Fvkontakte%2F&scope%5B0%5D=email&scope%5B1%5D=friends&scope%5B2%5D=offline&response_type=code&v=5.52">Вход с Vkontakte</a>
+                    <span class="login-form__or">или</span>
+                    <div class="fblock">
+            <div class="focusbox">
+                <input id="userEmailRegister" class="light required" type="text" value=""
+                       name="register[email]" placeholder="Email-адрес (в учётную запись OLX)" title="Email-адрес (в учётную запись OLX)">
+            </div>
+        </div>
+                    <div class="fblock">
+            <div class="focusbox">
+                <input id="userPassRegister" class="light required" type="password" value=""
+                       name="register[password]" placeholder="Пароль" title="Пароль" autocomplete="off">
+                <i data-icon="eye" class="hidden"></i>
+            </div>
+        </div>
+    
+    <div class="login-form__checkbox">
+        <div class="fblock">
+            <div class="focusbox">
+                <input id="checkbox_accept-terms" type="checkbox" name="register[rules]"  >
+                <label for="checkbox_accept-terms">
+                                            <strong>*</strong>
+                                                    Я соглашаюсь с <a href="https://www.olx.ua/terms/" title="Правила использования OLX.ua"
+                                              target="_blank">правилами использования
+                            сервиса</a>, а также с передачей и обработкой моих данных в OLX.ua.
+                            Я подтверждаю своё совершеннолетие и ответственность за размещение
+                            объявления
+                                                                                                                                                                </label>
+            </div>
+        </div>
+    </div>
+        <button id="button_register" class="login-button">Регистрация</button>
+</form>
+            </li>
+        </ul>
+    </div>
+</div>
+            </div>
+        </div>
+    </div>
+</div>		<!-- BODY CONTRIB -->
+	    	<!-- Yandex.Metrika counter -->
+			<script type="text/javascript">
+		(function (d, w, c) {
+		    (w[c] = w[c] || []).push(function() {
+			try {
+			    w.yaCounter15553948 = new Ya.Metrika({id:15553948, enableAll: true});
+			    if(typeof addTrans != 'undefined' && addTrans == true) {
+				yaCounter15553948.reachGoal("thankYouPageAdAdded");
+				var yaParams = { order_id: yaOrderId, order_price: 0, currency: "UAH", exchange_rate: 1, goods: [{ id: "", name: "New Ad", price: 0, quantity: 1}]};
+			    }
+			} catch(e) {}
+		    });
+
+		    var n = d.getElementsByTagName("script")[0],
+			s = d.createElement("script"),
+			f = function () { n.parentNode.insertBefore(s, n); };
+		    s.type = "text/javascript";
+		    s.async = true;
+		    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+		    if (w.opera == "[object Opera]") {
+			d.addEventListener("DOMContentLoaded", f);
+		    } else { f(); }
+		})(document, window, "yandex_metrika_callbacks");
+		</script>
+		<noscript><div><img src="//mc.yandex.ru/watch/15553948" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+		<!-- /Yandex.Metrika counter -->
+	
+	
+			<script type="text/javascript">
+		    window.admixZArr = (window.admixZArr || []);
+		    window.admixZArr.push({ z: 'a5fc560e-925f-4054-a18e-56227d0f62e3', ph: 'admixer_async_478676499'});
+		</script>
+	
+	
+	    <script type="text/javascript">
+	<!--
+	xtnv = document;
+	xtsd = "https://LOGws1314"
+	xtsite = "540519";
+	xtcustom = {"platform":"desktop","page_name":"myaccount","action_type":"myolx_ads","user_id":"90983262","business_status":"normal","test":"a"};
+	//-->
+</script>
+<noscript>
+	<img width="1" height="1" alt="" src="https://LOGws1314.ati-host.net/hit.xiti?s=540519&stc={"platform":"desktop","page_name":"myaccount","action_type":"myolx_ads","user_id":"90983262","business_status":"normal","test":"a"}" >
+</noscript>
+		<!-- TRACKING CONTRIB --><script type="text/javascript">
+	<!-- 
+ if (typeof xtcustom !== 'undefined') {
+	xtcustom["user_status"] = "logged_password";
+	xtcustom["user_id"] = "90983262";
+	}
+ //-->
+</script>
+
+	    							<script type="text/javascript" src="https://s2.olx.ua/static/olxua/packed/sw545f331e7dee2f4300ccac5a039a9362.js"></script>
+												<script type="text/javascript" src="https://s2.olx.ua/static/olxua/packed/swec08cb7ba125191ebee43b7608294b44.js"></script>
+										<script type="text/javascript">
+				$LAB
+								.script('https://cdn.optimizely.com/js/1032155592.js?v=1')
+							</script>
+					
+			<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-23987051-2']);
+		  _gaq.push(['_setDomainName', '.olx.ua']);
+		  _gaq.push(['_addOrganic', 'go.mail.ru', 'q']);
+		  _gaq.push(['_addOrganic', 'search.ukr.net', 'q']);
+		  _gaq.push(['_addOrganic', 'search.ukr.net', 'search_query']);
+		  _gaq.push(['_addOrganic', 'meta.ua', 'q']);
+		  _gaq.push(['_addOrganic', 'nigma.ru', 's']);
+		  _gaq.push(['_addOrganic', 'search.qip.ru', 'query']);
+		  _gaq.push(['_addOrganic', 'search.livetool.ru', 'text']);
+		  _gaq.push(['_addOrganic', 'bpes.com.ua', 'q']);
+		  _gaq.push(['_addOrganic', 'webalta.ru', 'q']);
+		  _gaq.push(['_addOrganic', 'search.i.ua', 'q']);
+		  _gaq.push(['_addOrganic', 'search.icq.com', 'q']);
+		  _gaq.push(['_trackPageview']);
+		  
+		  if(typeof gaTransaction != 'undefined' && typeof gaTransactionItem != 'undefined') {
+			  _gaq.push(gaTransaction);
+			  _gaq.push(gaTransactionItem);
+			  _gaq.push(['_trackTrans']); //submits transaction to the Analytics servers
+		  }
+		
+		 (function(){
+		  var ga, s;
+		  if ( !_adblock ) {
+			  ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			  ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+			  s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  } else {
+			  ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')+ '.google-analytics.com/ga.js';
+			  s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  }})();
+		</script>
+		
+		
+		
+			    			<script type="text/javascript">
+			$(function(){
+				if(typeof GoogleObj != 'undefined') {
+					setTimeout(function() {
+						var conversions = GoogleObj.getConversions();
+						for(k in conversions) {
+							var data = conversions[k];
+							window['google_conversion_id'] = data.id;
+							window['google_conversion_language'] = data.language;
+							window['google_conversion_format'] = data.format;
+							window['google_conversion_color'] = data.color;
+							window['google_conversion_label'] = data.label;
+							window['google_conversion_value'] = data.value;
+							oldWrite = document.write;
+							document.write = (function(params)
+							{
+								$(document.body).append(params);
+							});
+					$.getScript(document.location.protocol + "//www.googleadservices.com/pagead/conversion.js", function(){
+						document.write = oldWrite;
+					});
+						}
+					}, 10);
+				};
+
+				if(typeof GoogleObj != 'undefined') {
+					setTimeout(function() {
+						var adsDetails = GoogleObj.getAdsDetails();
+						if(typeof adsDetails[0] != 'undefined') {
+							GoogleObj.loadGoogleAds(adsDetails[0]);
+						}
+					}, 100);
+				}
+			});
+		</script>
+						    <!--APP R3NDR www.olx.ua--><!--B4CK3ND OK-->
+	    <!-- BOTTOM CONTRIB --><script type="text/javascript">window.dataLayer = window.dataLayer || [];window.dataLayer.push({"call": "samurai"});</script>
+	</body>
+</html>
+<!-- tablica-dc4-270 -->

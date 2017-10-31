@@ -1,0 +1,37 @@
+Request URL:https://www.olx.ua/ajax/myaccount/deactivateme/
+Request Method:POST
+Status Code:200 OK
+Remote Address:104.96.128.150:443
+Response Headers
+view source
+Cache-Control:max-age=0, no-cache, no-store
+Connection:keep-alive
+Content-Length:48
+Content-Type:application/json; charset=utf-8
+Date:Tue, 28 Feb 2017 13:51:01 GMT
+Expires:Tue, 28 Feb 2017 13:51:01 GMT
+Pragma:no-cache
+X-B:tablica-dc4-240
+X-T:D=69851 t=1488289861104898
+Request Headers
+view source
+Accept:application/json, text/javascript, */*; q=0.01
+Accept-Encoding:gzip, deflate, br
+Accept-Language:ru,uk;q=0.8,en;q=0.6
+Connection:keep-alive
+Content-Length:169
+Content-Type:application/x-www-form-urlencoded
+Cookie:mobile_default=desktop; ldTd=true; xtvrn=$540519$; _ym_uid=14882005001053361969; optimizelyEndUserId=oeu1488200501789r0.6140956654183025; incrementadblock_index_0=true; surveyPopupInited=%5B%22rollingNPSOLXUAwave1%22%5D; mobileappsbadge=1; incrementadblock_myaccount_0=true; remember_login=90092526%3A1489420142%3B29746084997920f66644e541d4f38590; crtg_rta=; __gads=ID=2296303b332fe543:T=1488270400:S=ALNI_MaKAvp1biX0uekbIKd4C-cyFeAr6A; _ym_isad=1; PHPSESSID=ub0c6ujlp284r9gkj46d09d4s6; user_id=90092526; __utmt=1; dfp_user_id=a43ce601-7008-652b-d569-965a777a84a0; from_detail=0; atidvisitor=%7B%22name%22%3A%22atidvisitor%22%2C%22val%22%3A%7B%22vrn%22%3A%22-573055-%22%7D%2C%22options%22%3A%7B%22path%22%3A%22%2F%22%2C%22session%22%3A15724800%2C%22end%22%3A15724800%7D%7D; __utma=250720985.1014781584.1488200502.1488279204.1488289084.7; __utmb=250720985.5.10.1488289084; __utmc=250720985; __utmz=250720985.1488200502.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); optimizelySegments=%7B%221033243617%22%3A%22none%22%2C%221039805884%22%3A%22false%22%2C%221044912896%22%3A%22direct%22%2C%221099920464%22%3A%22gc%22%7D; optimizelyBuckets=%7B%7D; optimizelyPendingLogEvents=%5B%5D; mp_1799dc4067be971353b85127f766a0a4_mixpanel=%7B%22distinct_id%22%3A%20%2215a7fa983c62ef-09fbeb207460af-57e1b3c-1fa400-15a7fa983c8f2%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D; onap=15a7fa97ee7x7dfa9b56-7-15a84f131bcx10343aa1-7-1488291667
+Host:www.olx.ua
+Origin:https://www.olx.ua
+Referer:https://www.olx.ua/myaccount/
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+X-Requested-With:XMLHttpRequest
+Form Data
+view parsed
+adID=395299652&reasonID=6&text=&tokeneyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk1Mjk5NjUyIiwiZXhwIjoxNDg4MjkxNTQ4fQ.qQ8spn4_kDQL9cUidnMUEsOiA09oLrVUMOvU70Y025A
+
+   
+                      
+                        
+                    

@@ -1,0 +1,38 @@
+Request URL:https://www.olx.ua/ajax/myaccount/removeme/
+Request Method:POST
+Status Code:200 OK
+Remote Address:104.82.26.172:443
+Response Headers
+view source
+Cache-Control:max-age=0, no-cache, no-store
+Connection:keep-alive
+Content-Length:4
+Content-Type:application/json; charset=utf-8
+Date:Wed, 01 Mar 2017 12:41:34 GMT
+Expires:Wed, 01 Mar 2017 12:41:34 GMT
+Pragma:no-cache
+X-B:tablica-dc4-239
+X-T:D=43130 t=1488372093945430
+Request Headers
+view source
+Accept:application/json, text/javascript, */*; q=0.01
+Accept-Encoding:gzip, deflate, br
+Accept-Language:ru,uk;q=0.8,en;q=0.6
+Connection:keep-alive
+Content-Length:152
+Content-Type:application/x-www-form-urlencoded
+Cookie:mobile_default=desktop; ldTd=true; xtvrn=$540519$; _ym_uid=14882005001053361969; optimizelyEndUserId=oeu1488200501789r0.6140956654183025; incrementadblock_index_0=true; surveyPopupInited=%5B%22rollingNPSOLXUAwave1%22%5D; mobileappsbadge=1; incrementadblock_myaccount_0=true; crtg_rta=; __gads=ID=2296303b332fe543:T=1488270400:S=ALNI_MaKAvp1biX0uekbIKd4C-cyFeAr6A; newrelicInited=0; _ym_isad=1; xtor=erec-148-%5Bid1%5D-20170301-%5Blink%5D-90983262%401-20170301112457; xtdate=413433.424385; xtide=90983262%401; __utmt=1; PHPSESSID=698luss7cavdg3k2e1u80lk293; user_id=90092526; remember_login=90092526%3A1489581429%3Bb6e145a2c81921aee1376a596e412fc3; dfp_user_id=a43ce601-7008-652b-d569-965a777a84a0; from_detail=0; __utma=250720985.1014781584.1488200502.1488360329.1488371820.13; __utmb=250720985.11.10.1488371820; __utmc=250720985; __utmz=250720985.1488360329.12.2.utmcsr=serviceletterRegistration|utmccn=link|utmcmd=email; onap=15a7fa97ee7x7dfa9b56-13-15a89dfa680x4b4cf1c7-19-1488373856; optimizelySegments=%7B%221033243617%22%3A%22link%22%2C%221039805884%22%3A%22false%22%2C%221044912896%22%3A%22campaign%22%2C%221099920464%22%3A%22gc%22%7D; optimizelyBuckets=%7B%7D; mp_1799dc4067be971353b85127f766a0a4_mixpanel=%7B%22distinct_id%22%3A%20%2215a7fa983c62ef-09fbeb207460af-57e1b3c-1fa400-15a7fa983c8f2%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22utm_source%22%3A%20%22serviceletterRegistration%22%2C%22utm_medium%22%3A%20%22email%22%2C%22utm_campaign%22%3A%20%22link%22%7D; atidvisitor=%7B%22name%22%3A%22atidvisitor%22%2C%22val%22%3A%7B%22vrn%22%3A%22-573055-%22%7D%2C%22options%22%3A%7B%22path%22%3A%22%2F%22%2C%22session%22%3A15724800%2C%22end%22%3A15724800%7D%7D; optimizelyPendingLogEvents=%5B%5D
+Host:www.olx.ua
+Origin:https://www.olx.ua
+Referer:https://www.olx.ua/myaccount/archive/
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+X-Requested-With:XMLHttpRequest
+Form Data
+view source
+view URL encoded
+adID:395299652
+token:eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk1Mjk5NjUyIiwiZXhwIjoxNDg4MzczODQ4fQ.0WwH97AcN_UxIgTsJzdHGBqDpymXmdiSfJ1NLbui74k
+
+
+adID=395299652&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhZElEIjoiMzk1Mjk5NjUyIiwiZXhwIjoxNDg4MzczODQ4fQ.0WwH97AcN_UxIgTsJzdHGBqDpymXmdiSfJ1NLbui74k
+

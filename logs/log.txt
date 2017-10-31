@@ -1,0 +1,51 @@
+2017-03-01 19:09:06 Error deactivating messages
+2017-03-01 19:09:25 Error deleteing messages
+2017-03-01 19:10:43 Succes post from info%40erika.com.ua to category 1433
+2017-03-01 19:12:17 Succes post from info%40erika.com.ua to category 899
+2017-03-01 19:24:57 Error deactivating messages</br>
+2017-03-01 19:25:10 Error deleteing messages</br>
+2017-03-01 19:26:21 Succes post from info%40erika.com.ua to category 1433
+2017-03-01 19:27:55 Succes post from info%40erika.com.ua to category 899
+2017-03-02 12:47:02 Succes post from garden%40attika-style.com to category 1433
+2017-03-02 12:57:31 Succes post from info%40erika.com.ua to category 899
+
+2017-03-02 13:06:13 Succes post from garden%40attika-style.com to category 899
+
+2017-03-02 13:10:44
+ Succes post from info%40erika.com.ua to category 899
+2017-03-02 13:17:04
+ Succes post from info%40erika.com.ua to category 1433
+
+2017-03-02 13:18:04 Succes post from garden%40attika-style.com to category 1433
+2017-03-02 13:23:17
+ Succes post from garden%40attika-style.com to category 1433
+
+2017-03-02 13:46:02 Error deactivating messages
+
+2017-03-02 13:46:22 Error deleteing messages
+
+2017-03-02 13:47:43
+ Succes post from insofds%40yandex.ua to category 1433
+
+2017-03-02 13:49:11
+ Succes post from insofds%40yandex.ua to category 641
+
+2017-03-06 12:09:55
+ Succes post from garden%40attika-style.com to category 1433
+
+2017-03-06 12:14:44
+ Succes post from garden%40attika-style.com to category 611
+
+2017-03-06 12:17:08
+ Succes post from info%40erika.com.ua to category 1433
+
+2017-03-13 18:49:24
+ Succes post from garden%40attika-style.com to category 1433
+
+2017-03-13 18:50:45 Error deactivating messages
+
+2017-03-13 18:51:02 Error deleteing messages
+
+2017-03-13 18:52:15\n Succes post from garden%40attika-style.com to category 1433\n2017-03-13 19:32:44 Error deactivating messages
+2017-03-13 19:33:02 Error deleteing messages
+2017-03-13 19:33:58\n Succes post from garden%40attika-style.com to category 1433\n2017-03-15 19:19:14\n Succes post from info%40erika.com.ua to category 1433\n
